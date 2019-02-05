@@ -1,4 +1,5 @@
 Total tokens: 331860
 Unique tokens: 49454
 Type/token ration: 0.1490206713674441
-						
+
+Number of tokens that appear only once: 34593

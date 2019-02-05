@@ -1,3 +1,135 @@
 a. We have used the twitter tokenizer from nltk python's library, together with a list of contractions for which we have used the nltk's word tokenizer in order to obtain a better accuracy.
 We have conducted a comparison between the nltk's word tokenizer and the nltk's twitter tokenizer which led us to the conclusion that the first one is more accurate for contracted forms such as (we're, I'm, can't), while the second one is more suited for social media data, where the used language is closer to the user, thus often containing unconventional words and phrases (abbreviations, links, emojis, shortening of the words, jargon, etc.). 
 Output of the first 20 messages in the corpus:
+save bbc world service from savage cuts http://www.petitionbuzz.com/petitions/savews
+a lot of people always make fun about the end of the world but the question is .. " are u ready for it ? ..
+rethink group positive in outlook : technology staffing specialist the rethink group expects revenues to be “ marg ... http://bit.ly/hfjtmy
+' zombie ' fund manager phoenix appoints new ceo : phoenix buys up funds that have been closed to new business and ... http://bit.ly/dxrlh5
+latest :: top world releases http://globalclassified.net/2011/02/top-world-releases-2/
+cdt presents alice in wonderland - catonsville dinner has posted ' cdt presents alice in wonderland ' to the ... http://fb.me/gmicayt3
+territory manager : location : calgary , alberta , canada job category : bu ... http://bit.ly/e3o7mt #jobs
+i cud murder sum 1 today n not even flinch i 'm tht fukin angry today
+bbc news - today - free school funding plans ' lack transparency ' - http://news.bbc.co.uk/today/hi/today/newsid_9389000/9389467.stm …
+manchester city council details saving cuts plan : http://bbc.in/fypypc ... depressing . apparently we ’ re 4th most deprived & top 5 hardest hit
+http://bit.ly/e0ujdp , if you are interested in professional global translation services
+fitness first to float but is n't the full service model dead ? http://bit.ly/evfleb
+david cook ! http://bit.ly/fkj2gk has the mostest beautiful smile in the world !
+piss off . cnt stand lick asses
+beware the blue meanies : http://bit.ly/hu8ijz #cuts #thebluemeanies
+como perde os dentes no world of warcraft - via alisson http://ow.ly/1bebpo
+how exciting ! rt @bunchesuk : hello ! what 's happening in your world ? we 're all gearing up for #valentines with bouquets flying out the door .
+i 'd very much appreciate it if people would stop broadcasting asking me to add people on bbm .
+@samanthaprabu sam i knw u r a cricket fan r u watching any of the world cup matches
+john baer : who did n't see this coming ? : to those who know ed and midge rendell - heck , to the philly world at la ... http://bit.ly/ii6weo
+
+
+b. Total tokens: 331860
+Unique tokens: 49454
+Type/token ration: 0.1490206713674441
+
+					
+c. 
+:	8629
+.	7755
+the	7738
+,	6903
+...	5099
+to	5040
+!	4390
+a	3986
+in	3947
+-	3896
+of	3856
+and	3056
+i	2714
+for	2567
+on	2319
+"	2146
+is	2138
+?	2131
+rt	1786
+(	1753
+)	1538
+you	1530
+'	1493
+my	1338
+it	1245
+with	1197
+at	1184
+new	1106
+news	1083
+that	949
+this	942
+&	925
+be	894
+release	877
+from	870
+are	830
+world	791
+by	787
+me	769
+just	735
+security	734
+not	732
+have	722
+will	715
+u	707
+/	669
+as	649
+has	641
+now	639
+your	637
+white	634
+s	629
+no	626
+phone	625
+rite	603
+all	596
+..	590
+out	587
+return	586
+was	576
+egyptian	571
+so	555
+|	542
+we	531
+up	530
+i'm	521
+but	515
+like	514
+if	508
+crash	501
+toyota	498
+#jan25	496
+an	493
+bbc	490
+#egypt	481
+2	474
+…	472
+us	470
+what	470
+about	466
+de	464
+get	459
+’	436
+do	434
+can	432
+via	426
+egypt	424
+*	424
+they	414
+love	408
+2011	398
+one	387
+more	387
+people	380
+time	376
+day	368
+how	367
+$	359
+or	356
+peace	356
+
+
+d. Number of tokens that appear only once: 34593
+

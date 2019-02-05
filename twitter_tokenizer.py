@@ -16,7 +16,7 @@ def load_contractions(file="data/list_of_contractions.txt"):
 	with open(file, "r") as f:
 		for line in f.readlines():
 			meaning = line.split(maxsplit=1)[1].split("/")[0]
-			contractions[line.split()[0]] = len(meaning.split())
+			contractions[line.split()[0].lower()] = len(meaning.split())
 	return contractions
 
 
@@ -42,25 +42,22 @@ def nltk_tok(result_file="data/microblog2011_tokenized.txt"):
 	tokenizer = TweetTokenizer()
 	corpus = get_corpus()
 	contractions = load_contractions()
-	with io.open("data/tokenize_first_20.txt", "w", encoding="utf8") as first_20:
-		with io.open(result_file, "w",
-								 encoding="utf8") as f:
-			with io.open("data/dif_tweettok_vs_tok.txt", "w", encoding="utf8") as dif:	
-				count = 0
-				for msg in corpus.split("\n"):
-					tweet_tok = tokenizer.tokenize(msg.lower())
-					tweet_tok = _tokenize_contractions(tweet_tok, contractions)
-					tok = word_tokenize(msg.lower())
-					if count < 20:
-						first_20.write('%s\n' % str.join(' ', tweet_tok))
-					f.write('%s\n' % str.join(' ', tweet_tok))
-					if len(tweet_tok) != len(tok):
-						dif.write("tweet_tok:\t%s\nnltk_tok:\t%s\n" %
-											(str.join(' ', tweet_tok), str.join(' ', tok)))
-						dif.write("#################################\n")
+	with io.open(result_file, "w",
+							 encoding="utf8") as f:
+		with io.open("data/dif_tweettok_vs_tok.txt", "w", encoding="utf8") as dif:
+			count = 0
+			for msg in corpus.split("\n"):
+				tweet_tok = tokenizer.tokenize(msg.lower())
+				tweet_tok = _tokenize_contractions(tweet_tok, contractions)
+				tok = word_tokenize(msg.lower())
+				f.write('%s\n' % str.join(' ', tweet_tok))
+				if len(tweet_tok) != len(tok):
+					dif.write("tweet_tok:\t%s\nnltk_tok:\t%s\n" %
+										(str.join(' ', tweet_tok), str.join(' ', tok)))
+					dif.write("#################################\n")
 
-			tokens = tokenizer.tokenize(corpus.lower())
-			#f.write(str(Counter(tokens)))
+		tokens = tokenizer.tokenize(corpus.lower())
+		#f.write(str(Counter(tokens)))
 	return tokens
 
 tokens = nltk_tok()
@@ -72,18 +69,30 @@ def regular_tok():
 #######################
 # b. Stats            #
 #######################
+##########################
+# c. Tokens' frequencies #
+##########################
 def stats(tokens):
 	count = Counter(tokens)
+	one_occurencies = 0
+	with io.open("data/Tokens.txt", "w", encoding="utf8") as tok:
+		for token in count.most_common():
+			tok.write("%s\t%s\n" % (str(token[0]), str(token[1])))
+			if token[1] == 1:
+				one_occurencies += 1
 	total_tokens = sum(count.values())
 	unique_tokens = len(set(tokens))
 	""" The type/token ratio is defined as the number of types
 	 divided by the number of tokens."""
 	type_token_ration = unique_tokens / total_tokens
 	with open("data/stats_b.txt", "w") as f:
-		f.write("""Total tokens: %s\nUnique tokens: %s\nType/token ration: %s
+		f.write("""Total tokens: %s\nUnique tokens: %s\nType/token ration: %s\n
 						""" % (str(total_tokens), str(unique_tokens),
 									 str(type_token_ration)))
+		f.write("Number of tokens that appear only once: %s\n"
+			   		% str(one_occurencies))
 
 stats(tokens)
 
-###
+
+
