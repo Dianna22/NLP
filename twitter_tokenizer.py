@@ -2,7 +2,10 @@ from nltk.tokenize import TweetTokenizer
 from nltk import word_tokenize
 import io
 from collections import Counter
-import json
+import pickle
+
+
+TOKENIZER_CACHE = "data/tokenizer_serialized.pkl"
 
 
 def get_corpus(file="data/twittercorpus.txt"):
@@ -38,7 +41,17 @@ def _tokenize_contractions(words, contractions):
 	return words
 
 
-def nltk_tok(result_file="data/microblog2011_tokenized.txt"):
+def _save_token_object(tokens):
+	with open(TOKENIZER_CACHE, "wb") as tok_file:
+		pickle.dump(pickle.dumps(tokens), tok_file)
+
+
+def _load_token_object():
+	with open(TOKENIZER_CACHE, "rb") as tok_file:
+		return pickle.loads(pickle.load(tok_file))
+
+
+def nltk_tok(result_file="data/microblog2011_tokenized.txt", tokenizer_result="data/tokenizer_serialized.txt"):
 	tokenizer = TweetTokenizer()
 	corpus = get_corpus()
 	contractions = load_contractions()
@@ -55,12 +68,10 @@ def nltk_tok(result_file="data/microblog2011_tokenized.txt"):
 					dif.write("tweet_tok:\t%s\nnltk_tok:\t%s\n" %
 										(str.join(' ', tweet_tok), str.join(' ', tok)))
 					dif.write("#################################\n")
-
 		tokens = tokenizer.tokenize(corpus.lower())
 		#f.write(str(Counter(tokens)))
+		_save_token_object(tokens)	
 	return tokens
-
-tokens = nltk_tok()
 
 
 def regular_tok():
@@ -92,7 +103,24 @@ def stats(tokens):
 		f.write("Number of tokens that appear only once: %s\n"
 			   		% str(one_occurencies))
 
-stats(tokens)
+
+##########################
+# e. words               #
+##########################
+# def extract words(tokens):
 
 
 
+
+
+def main():
+	load = input("Load cached tokens: ")
+	if load == "y":
+		tokens = _load_token_object()
+	else:
+		tokens = nltk_tok()
+
+	stats(tokens)
+
+
+main()
