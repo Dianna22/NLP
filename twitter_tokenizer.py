@@ -139,6 +139,17 @@ def count_english_correct_words(words):
 	return (counter, wrong_words)
 
 
+def _load_stopwords(file="data/list_of_Stopwords.txt"):
+	with open(file, "r") as f:
+		stopwords = f.read().split("\n")
+	return stopwords
+
+
+def eliminate_stopwords(words):
+	stopwords = _load_stopwords()
+	return [word for word in words if word not in stopwords]
+
+
 def main():
 	load = input("Rerun tokenizer: ")
 	if load == "n":
@@ -155,6 +166,12 @@ def main():
 	# print("Number of recognized words: %s" % str(correct_no_words))
 	print("Type/token ratio: %s" % str(len(set(words))/len(words)))
 
+	words_no_stopwords = eliminate_stopwords(words)
+	with io.open("data/words_frequency_no_stopwords.txt", "w",
+							 encoding="utf8") as f:
+		count = Counter(words_no_stopwords)
+		for word in count.most_common():
+			f.write("%s\t%s\n" % (word[0], str(word[1])))
 
 if __name__=="__main__":
 	main()
