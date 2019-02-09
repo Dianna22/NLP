@@ -1,4 +1,5 @@
-a. We have used the twitter tokenizer from nltk python's library, together with a list of contractions for which we have used the nltk's word tokenizer in order to obtain a better accuracy.
+a. We have used the twitter tokenizer from nltk python's library. In addition, we have used a list of contractions (from wikipedia and other web resources). 
+For the words in this list, we have used the nltk's word tokenizer in order to obtain a better accuracy.
 We have conducted a comparison between the nltk's word tokenizer and the nltk's twitter tokenizer which led us to the conclusion that the first one is more accurate for contracted forms such as (we're, I'm, can't), while the second one is more suited for social media data, where the used language is closer to the user, thus often containing unconventional words and phrases (abbreviations, links, emojis, shortening of the words, jargon, etc.). 
 Output of the first 20 messages in the corpus:
 save bbc world service from savage cuts http://www.petitionbuzz.com/petitions/savews
@@ -132,4 +133,112 @@ peace	356
 
 
 d. Number of tokens that appear only once: 34593
+
+
+e. Number of words: 247283 (all these words were found in the English lexical database Wordnet)
+Type/token ratio: 0.1200325133551437 
+
+the	7739
+to	5040
+a	3986
+in	3957
+of	3858
+and	3056
+i	2714
+for	2567
+on	2319
+is	2138
+rt	1791
+you	1530
+my	1338
+it	1248
+news	1240
+with	1197
+at	1184
+new	1107
+that	949
+this	942
+egypt	905
+be	894
+release	879
+from	870
+are	830
+world	803
+by	787
+me	769
+security	760
+just	735
+not	732
+have	722
+will	715
+u	707
+as	649
+now	644
+has	641
+white	640
+your	637
+phone	630
+s	629
+no	626
+rite	604
+all	596
+return	589
+out	588
+egyptian	587
+was	576
+so	555
+toyota	537
+we	532
+up	530
+but	515
+like	514
+bbc	511
+crash	510
+if	508
+jan25	496
+an	493
+us	476
+what	470
+about	467
+de	464
+get	459
+do	434
+can	432
+via	426
+love	416
+they	414
+one	387
+more	387
+peace	386
+pakistan	386
+mexico	381
+people	380
+time	377
+fifa	377
+haiti	377
+day	368
+how	367
+police	357
+or	356
+over	352
+soccer	344
+good	338
+when	338
+who	336
+service	335
+his	334
+he	326
+computer	321
+after	314
+go	314
+lol	312
+british	311
+video	307
+protesters	304
+its	302
+today	301
+date	286
+
+
+f. 
 

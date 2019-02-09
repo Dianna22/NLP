@@ -3,6 +3,7 @@ from nltk import word_tokenize
 import io
 from collections import Counter
 import pickle
+import re
 
 
 TOKENIZER_CACHE = "data/tokenizer_serialized.pkl"
@@ -107,9 +108,22 @@ def stats(tokens):
 ##########################
 # e. words               #
 ##########################
-# def extract words(tokens):
+
+def check_if_word(w_string):
+	word = re.match("#?\w*[a-zA-Z]\w*", w_string) 
+	if word and word.group(0) == w_string:
+		return word.group(0).replace("#","")
+	return None 
 
 
+def extract_words(tokens):
+	words = [check_if_word(token) for token in tokens if check_if_word(token) is not None]
+	with io.open("data/words_frequency.txt", "w",
+							 encoding="utf8") as f:
+		count = Counter(words)
+		for word in count.most_common():
+			f.write("%s\t%s\n" % (word[0], str(word[1])))
+	return words
 
 
 
@@ -121,6 +135,22 @@ def main():
 		tokens = nltk_tok()
 
 	stats(tokens)
+	words = extract_words(tokens)
+
+	from nltk.corpus import wordnet as wn
+	counter = 0
+	wrong_words = []
+	for word in words:
+		if wn.synsets(word):
+			counter += 1
+		else:
+			wrong_words += word
 
 
-main()
+	print("e. Number of words: %s" % str(len(words)))
+	print("Number of recognised words: %s" % str(len(words)))
+	print("Type/token ratio: %s" % str(len(set(words))/len(words)))
+
+
+if __name__=="__main__":
+	main()
