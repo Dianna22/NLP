@@ -1410,7 +1410,6 @@ fact	23
 town	23
 picture	23
 dj	23
-não	23
 situation	23
 seriously	23
 museums	23
@@ -1904,7 +1903,6 @@ earlier	16
 forecast	16
 discuss	16
 statement	16
-más	16
 jokes	16
 express	16
 illegal	16
@@ -2649,7 +2647,6 @@ proper	11
 urge	11
 batman	11
 lmfao	11
-haití	11
 studies	11
 ugly	11
 newest	11
@@ -3054,7 +3051,6 @@ departure	9
 michigan	9
 cab	9
 southern	9
-o_o	9
 treaty	9
 propaganda	9
 joint	9
@@ -3115,7 +3111,6 @@ santos	9
 daniel	9
 mario	9
 distance	9
-méxico	9
 tune	9
 iv	9
 papa	9
@@ -3391,7 +3386,6 @@ defeated	8
 mit	8
 tie	8
 todo	8
-está	8
 mundial	8
 mayor	8
 henry	8
@@ -4210,7 +4204,6 @@ workout	6
 male	6
 tricks	6
 focused	6
-será	6
 dice	6
 meu	6
 causes	6
@@ -4247,7 +4240,6 @@ historic	6
 nog	6
 bolton	6
 commentary	6
-für	6
 metro	6
 tries	6
 nigerian	6
@@ -4474,7 +4466,6 @@ idol	6
 sugar	6
 skype	6
 torture	6
-só	6
 parties	6
 bang	6
 techie	6
@@ -4663,7 +4654,6 @@ teaching	5
 resume	5
 ho	5
 maruti	5
-año	5
 cm	5
 conspiracy	5
 unemployed	5
@@ -4871,14 +4861,12 @@ kissing	5
 counting	5
 cambodia	5
 jesustweeters	5
-país	5
 desire	5
 dow	5
 ashes	5
 diplomatique	5
 z	5
 amor	5
-qué	5
 comic	5
 ability	5
 datsyuk	5
@@ -5317,7 +5305,6 @@ tapi	5
 dar	5
 wkwk	5
 mentionke	5
-ägypten	5
 grit	5
 dental	5
 cuban	5
@@ -5604,11 +5591,9 @@ jaja	4
 scholarship	4
 jogar	4
 ta	4
-así	4
 succeed	4
 resist	4
 trainer	4
-español	4
 regular	4
 skating	4
 alternative	4
@@ -5699,7 +5684,6 @@ freeview	4
 pensions	4
 kenny	4
 outbreak	4
-haïti	4
 howard	4
 norwegian	4
 provided	4
@@ -5713,7 +5697,6 @@ tot	4
 aan	4
 zynga	4
 donation	4
-préval	4
 naked	4
 honored	4
 quake	4
@@ -5817,7 +5800,6 @@ offended	4
 predict	4
 raised	4
 policemen	4
-miércoles	4
 population	4
 addicted	4
 detox	4
@@ -5841,7 +5823,6 @@ toes	4
 det	4
 guerra	4
 estado	4
-juárez	4
 tweak	4
 fearsome	4
 realm	4
@@ -6373,7 +6354,6 @@ fundador	4
 actuelle	4
 nachrichten	4
 aktuelle	4
-österreich	4
 deutschland	4
 schweiz	4
 bukan	4
@@ -6725,7 +6705,6 @@ lmaoooo	3
 procycling	3
 bopara	3
 bueno	3
-barça	3
 fulham	3
 fields	3
 hamstring	3
@@ -6739,7 +6718,6 @@ italia	3
 thiago	3
 susan	3
 temporada	3
-vía	3
 fury	3
 wla	3
 forza	3
@@ -6747,7 +6725,6 @@ milito	3
 gus	3
 30k	3
 toda	3
-señor	3
 buzzing	3
 capsules	3
 smiles	3
@@ -6760,7 +6737,6 @@ juego	3
 haa	3
 boise	3
 firefighter	3
-españa	3
 nothin	3
 ajalah	3
 uncharted	3
@@ -6771,7 +6747,6 @@ resource	3
 listened	3
 caleb	3
 indoor	3
-disputará	3
 presidency	3
 corinthians	3
 risen	3
@@ -6831,12 +6806,10 @@ feast	3
 homo	3
 tycoon	3
 sem	3
-até	3
 oooooo	3
 defending	3
 rey	3
 instant	3
-fifaランクでもアジア王者に	3
 seemed	3
 tahun	3
 cola	3
@@ -6939,7 +6912,6 @@ wes	3
 attractive	3
 tarde	3
 muy	3
-mañana	3
 pavel	3
 deaf	3
 hiatus	3
@@ -6955,18 +6927,15 @@ flyers	3
 commander	3
 unicef	3
 zodiacfacts	3
-haïtien	3
 airing	3
 sensation	3
 preferred	3
 index	3
-été	3
 measured	3
 louisiana	3
 creator	3
 rua	3
 tank	3
-diplomático	3
 dances	3
 scoop	3
 resumes	3
@@ -6981,7 +6950,6 @@ hij	3
 segunda	3
 mano	3
 mega	3
-aquí	3
 rsvp	3
 nino	3
 epi	3
@@ -7020,7 +6988,6 @@ reactions	3
 puerta	3
 applied	3
 eligible	3
-autorités	3
 taxreturn	3
 roots	3
 dust	3
@@ -7219,7 +7186,6 @@ satire	3
 cbc	3
 eastern	3
 joints	3
-calderón	3
 skool	3
 pharr	3
 rethinking	3
@@ -7603,7 +7569,6 @@ july	3
 teh	3
 cnews	3
 puede	3
-în	3
 sides	3
 har	3
 suv	3
@@ -7944,7 +7909,6 @@ kleinanzeigen	3
 stefan	3
 hobby	3
 themes	3
-milhões	3
 unable	3
 dgn	3
 shoppers	3
@@ -8182,7 +8146,6 @@ optioned	3
 2b	3
 froyo	3
 beli	3
-são	3
 lauryn	3
 galera	3
 predicted	3
@@ -8297,7 +8260,6 @@ federer	3
 bread	3
 cavs	3
 naughty	3
-vão	3
 nole	3
 besok	3
 lance	3
@@ -8368,7 +8330,6 @@ poorly	3
 voiceleaks	3
 automation	3
 wellness	3
-météo	3
 cforecast	3
 abs	3
 evernote	3
@@ -8784,7 +8745,6 @@ perdido	2
 oks	2
 occupied	2
 11pm	2
-años	2
 largo	2
 ame	2
 complained	2
@@ -8811,7 +8771,6 @@ popped	2
 glasses	2
 weirdly	2
 intense	2
-så	2
 handler	2
 budding	2
 brew	2
@@ -8876,7 +8835,6 @@ inju	2
 pumped	2
 withdrawn	2
 gusta	2
-sí	2
 sia	2
 nh	2
 wktu	2
@@ -8906,7 +8864,6 @@ iedereen	2
 bayern	2
 maen	2
 riders	2
-fútbol	2
 azkals	2
 chin	2
 scum	2
@@ -8953,7 +8910,6 @@ everton	2
 prem	2
 caf	2
 issa	2
-på	2
 nak	2
 pancake	2
 internal	2
@@ -9050,8 +9006,6 @@ soz	2
 geez	2
 imagined	2
 hears	2
-fifaランクもアジア王者	2
-yjfc_soccer_national_team	2
 darn	2
 libur	2
 kapan	2
@@ -9108,9 +9062,7 @@ clinches	2
 shuld	2
 realised	2
 commentating	2
-repliqué	2
 kiffin	2
-rt希望	2
 juventus	2
 aspire	2
 veel	2
@@ -9170,7 +9122,6 @@ jw1n	2
 unblock	2
 destination	2
 olha	2
-lá	2
 trophies	2
 iklan	2
 boleh	2
@@ -9226,13 +9177,10 @@ crosby	2
 chr	2
 purdue	2
 sdsu	2
-regresará	2
-emitió	2
 diplomatico	2
 precisa	2
 conhecer	2
 wks	2
-próximo	2
 oooh	2
 jpmorgan	2
 samurai	2
@@ -9251,7 +9199,6 @@ psycho	2
 celebrates	2
 rebuilding	2
 obtient	2
-się	2
 bridgewater	2
 lmbo	2
 shades	2
@@ -9270,7 +9217,6 @@ frankwatching	2
 videogames	2
 mogul	2
 moet	2
-corazón	2
 eres	2
 qualityoflife	2
 nioxin	2
@@ -9292,12 +9238,8 @@ puppies	2
 farmers	2
 teases	2
 togetherness	2
-président	2
-rené	2
 pff	2
-imprimé	2
 lundi	2
-février	2
 haitienne	2
 hpn	2
 kmikeht	2
@@ -9366,7 +9308,6 @@ youngest	2
 distributing	2
 mirlande	2
 mia	2
-príncipe	2
 alligator	2
 warmer	2
 climates	2
@@ -9407,11 +9348,9 @@ kembali	2
 arrow	2
 boosted	2
 greendays	2
-haïtiennes	2
 haaretz	2
 vodou	2
 folklore	2
-sécurité	2
 bourgeoisie	2
 lisa	2
 ghetto	2
@@ -9518,10 +9457,8 @@ slogan	2
 presenting	2
 safest	2
 wurde	2
-glück	2
 snomg	2
 oilspill	2
-scheiße	2
 oder	2
 maddow	2
 hc	2
@@ -9532,7 +9469,6 @@ edison	2
 clifford	2
 wound	2
 mariah	2
-terá	2
 coisa	2
 ihr	2
 imho	2
@@ -9545,11 +9481,8 @@ lanes	2
 tantas	2
 cosas	2
 kouandjio	2
-días	2
 concierto	2
-mérito	2
 bono	2
-história	2
 mucho	2
 remesas	2
 malaria	2
@@ -9573,7 +9506,6 @@ producido	2
 auroras	2
 boreales	2
 madrugada	2
-canadá	2
 seus	2
 nega	2
 hermosillo	2
@@ -9669,7 +9601,6 @@ janet	2
 napolitano	2
 shootings	2
 castro	2
-secretária	2
 unite	2
 seasons	2
 reduced	2
@@ -9712,7 +9643,6 @@ punta	2
 riviera	2
 caesar	2
 tijuana	2
-josé	2
 jimmer	2
 messed	2
 malkin	2
@@ -9788,23 +9718,18 @@ overdose	2
 plug	2
 fch	2
 bilateral	2
-cuántos	2
-guantánamo	2
 hasta	2
-murió	2
 hablando	2
 toh	2
 limbaugh	2
 alaba	2
 importante	2
-latinoamérica	2
 tricolor	2
 overcast	2
 municipal	2
 afirma	2
 bcs	2
 restriction	2
-afirmó	2
 violencia	2
 aging	2
 urgently	2
@@ -9933,7 +9858,6 @@ disable	2
 overview	2
 galileo	2
 modules	2
-ipadに盗難防止セキュリティロックを施せるケース	2
 sudanese	2
 cordon	2
 tasered	2
@@ -10064,7 +9988,6 @@ webex	2
 overflow	2
 briefs	2
 adapted	2
-x_x	2
 csi	2
 showcases	2
 emerging	2
@@ -10075,7 +9998,6 @@ culprit	2
 deseret	2
 halts	2
 greenwich	2
-informação	2
 domination	2
 availability	2
 riyadh	2
@@ -10084,7 +10006,6 @@ mobi	2
 hpcloud	2
 uasi	2
 establishment	2
-šta	2
 alison	2
 marines	2
 gingerbread	2
@@ -10136,7 +10057,6 @@ bwahaha	2
 ohteenquotes	2
 coding	2
 unte	2
-rodeiþ	2
 atta	2
 sack	2
 tougher	2
@@ -10310,7 +10230,6 @@ aol	2
 embarrassed	2
 divine	2
 maryland	2
-näsa	2
 systemsanalyst	2
 authority	2
 amreading	2
@@ -10344,7 +10263,6 @@ marlies	2
 ipods	2
 blackberries	2
 buset	2
-nsas_nsas	2
 hartford	2
 infant	2
 m4w	2
@@ -10387,7 +10305,6 @@ pi	2
 internship	2
 foremost	2
 puedes	2
-aínsa	2
 lieberman	2
 marco	2
 nea	2
@@ -10405,7 +10322,6 @@ tm	2
 gooo	2
 clout	2
 ayun	2
-mãe	2
 ohhhh	2
 grrr	2
 convened	2
@@ -10460,7 +10376,6 @@ nko	2
 tapped	2
 kent	2
 cp	2
-começou	2
 traders	2
 milyar	2
 sahibi	2
@@ -10798,7 +10713,6 @@ pike	2
 funnyman	2
 appli	2
 bleibt	2
-über	2
 nab	2
 exports	2
 arse	2
@@ -10963,8 +10877,6 @@ evacuate	2
 suspicions	2
 35m	2
 braun	2
-võ	2
-lâm	2
 nge	2
 plentyoffish	2
 trails	2
@@ -10999,8 +10911,6 @@ tra	2
 retired	2
 quizzed	2
 twitters	2
-miên	2
-phí	2
 dickens	2
 blair	2
 wherever	2
@@ -11166,7 +11076,6 @@ uitvoering	2
 bouwjaar	2
 chilli	2
 salmonella	2
-już	2
 niece	2
 inventory	2
 highlander	2
@@ -11177,7 +11086,6 @@ cannon	2
 duluth	2
 kennesaw	2
 sludge	2
-série	2
 mississauga	2
 distributed	2
 merrick	2
@@ -11596,7 +11504,6 @@ unwind	2
 encarcelamiento	2
 elmer	2
 acelera	2
-publicación	2
 megaleak	2
 banca	2
 relation	2
@@ -11631,18 +11538,14 @@ vargas	2
 terrence	2
 onion	2
 peninsula	2
-después	2
 escuchar	2
 xoxo	2
 entrevista	2
 reluctant	2
-filtración	2
 masiva	2
 legenda	2
 ifive	2
 egipcio	2
-atrás	2
-último	2
 pode	2
 tudo	2
 certo	2
@@ -11652,7 +11555,6 @@ emosi	2
 sweat	2
 kui	2
 ikut	2
-déluge	2
 hii	2
 complaining	2
 minaccia	2
@@ -11671,7 +11573,6 @@ ati	2
 pnya	2
 capable	2
 telanjang	2
-vídeo	2
 vying	2
 dame	2
 wegen	2
@@ -11751,8 +11652,6 @@ osama	2
 libel	2
 hahart	2
 beverly	2
-poesía	2
-hayatı	2
 londres	2
 eddie	2
 controversies	2
@@ -11767,13 +11666,11 @@ basket	2
 follower	2
 deservesit	2
 sheath	2
-película	2
 moron	2
 politisi	2
 ingin	2
 raih	2
 australiano	2
-élu	2
 mauvais	2
 australien	2
 founded	2
@@ -11940,7 +11837,6 @@ mkv	2
 oomf	2
 clrprofiler	2
 v4	2
-boxセット	2
 tokubai	2
 wrestlers	2
 bwana	2
@@ -11998,7 +11894,6 @@ statham	2
 trevant	2
 calisto	2
 untethered	2
-dvd付	2
 15m	2
 bake	2
 fxck	2
@@ -12073,7 +11968,6 @@ sigma	2
 vie	2
 knights	2
 goldmeldung	2
-bestätigt	2
 burke	2
 ego	2
 lounge	2
@@ -12106,7 +12000,6 @@ tipped	2
 manga	2
 stussy	2
 massey	2
-web_development	2
 nearing	2
 knives	2
 ornaments	2
@@ -12261,7 +12154,6 @@ stamps	2
 ritzenhein	2
 contrition	2
 clarke	2
-ioc위원	2
 australiaday	2
 wilson	2
 lori	2
@@ -12276,7 +12168,6 @@ refugees	2
 proving	2
 lynnwood	2
 gibson	2
-olimpíadas	2
 tar	2
 noooo	2
 architects	2
@@ -12407,7 +12298,6 @@ seu	2
 thatawkwardmoment	2
 temas	2
 anuncian	2
-separación	2
 chorar	2
 cabo	2
 uit	2
@@ -12415,7 +12305,6 @@ elkaar	2
 retorno	2
 noticia	2
 wifey	2
-tí	2
 hacer	2
 quieras	2
 separado	2
@@ -12440,7 +12329,6 @@ afellay	2
 bojan	2
 nolito	2
 licence	2
-désormais	2
 encuentro	2
 hawk	2
 cinderella	2
@@ -12483,7 +12371,6 @@ dwiti	2
 scandals	2
 str	2
 musique	2
-tá	2
 fittings	2
 paste	2
 lebih	2
@@ -12491,7 +12378,6 @@ throwin	2
 doug	2
 swearing	2
 hush	2
-t_t	2
 hence	2
 knot	2
 bun	2
@@ -12548,7 +12434,6 @@ falsche	2
 spade	2
 eureka	2
 portada	2
-edición	2
 vigia	2
 panamericana	2
 intellifax	2
@@ -12636,9 +12521,6 @@ rhino	1
 poachers	1
 gloucester	1
 sitedate	1
-4gameのキャサリン推しがすごい	1
-同日発売のtwo	1
-worldsは公式更新すらネタにしないのにアフロ女とか正直どうでも	1
 destroys	1
 apogee	1
 prnewswire	1
@@ -12652,7 +12534,6 @@ tjp	1
 metastorm	1
 prussia	1
 futurist	1
-nasscom_ilf	1
 waterford	1
 cucok	1
 coba	1
@@ -12781,9 +12662,7 @@ mennonite	1
 lulalulera	1
 natalia	1
 vodianova	1
-worldも長友表紙の新刊に更新されとるね	1
 retailer	1
-newsの報道写真	1
 lankan	1
 monbiot	1
 commissioned	1
@@ -12949,7 +12828,6 @@ aleja	1
 cada	1
 tierra	1
 dedica	1
-artículo	1
 gwynt	1
 swyddfa	1
 llywodraeth	1
@@ -13177,7 +13055,6 @@ bushfires	1
 newsbeat	1
 filmwont	1
 emphaised	1
-internettv_news	1
 makeachange	1
 wibbly	1
 wobbly	1
@@ -13282,12 +13159,10 @@ collapsed	1
 guid	1
 immensely	1
 ervine	1
-confirmó	1
 cierre	1
 servicios	1
 lenguas	1
 extranjeras	1
-perderá	1
 escuchas	1
 stockwell	1
 attrition	1
@@ -13341,7 +13216,6 @@ chmn	1
 fy11	1
 stopgap	1
 pips	1
-tory_headlines	1
 magazines	1
 specialis	1
 cynic	1
@@ -13405,7 +13279,6 @@ timetables	1
 8hr	1
 etapa	1
 vuelta	1
-jartá	1
 rodar	1
 goood	1
 suckerz	1
@@ -13427,7 +13300,6 @@ darts	1
 trolley	1
 playmobil	1
 syk	1
-næringsmiddag	1
 runde	1
 arktan	1
 tibco	1
@@ -13513,7 +13385,6 @@ violate	1
 notetoself	1
 compendium	1
 constituency	1
-sessègnon	1
 remercie	1
 leopard	1
 mmmm	1
@@ -13543,7 +13414,6 @@ lighted	1
 heinrich	1
 sprints	1
 gardens	1
-fifa終わり	1
 yardy	1
 avenge	1
 ravi	1
@@ -13577,8 +13447,6 @@ lexmarkprinter	1
 gewonnen	1
 boudewijn	1
 ithadtobeyou	1
-pròxima	1
-fundació	1
 dona	1
 disseny	1
 mlb	1
@@ -13603,7 +13471,6 @@ achter	1
 knap	1
 leagueofexperience	1
 gueugnon	1
-fréjus	1
 milans	1
 stillbust	1
 preparado	1
@@ -13615,14 +13482,12 @@ distractions	1
 hows	1
 bocazas	1
 dado	1
-dimitirá	1
 necesita	1
 profunda	1
 limpieza	1
 dalglish	1
 toschack	1
 horrorosa	1
-només	1
 masses	1
 ratlles	1
 qib	1
@@ -13644,7 +13509,6 @@ keuze	1
 crocs	1
 renews	1
 mcclaren	1
-saldrá	1
 junto	1
 consola	1
 hereford	1
@@ -13655,7 +13519,6 @@ sathe	1
 psl	1
 darksiders	1
 wrath	1
-サッカービデオ撮影dvdパックのご紹介	1
 majstorovic	1
 verge	1
 clint	1
@@ -13701,7 +13564,6 @@ arrecheras	1
 posibles	1
 quitan	1
 tipo	1
-balón	1
 finta	1
 intente	1
 hacerles	1
@@ -13714,8 +13576,6 @@ ngertian	1
 dikit	1
 cumannanya	1
 tetap	1
-fã	1
-séries	1
 tbm	1
 infamous	1
 ilovemyps3	1
@@ -13730,9 +13590,6 @@ coronas	1
 feminino	1
 alemanha	1
 cobertura	1
-inédita	1
-marcará	1
-matéria	1
 completa	1
 violin	1
 lilly	1
@@ -13743,18 +13600,13 @@ viciao	1
 aceptan	1
 apuestas	1
 jogarmos	1
-abraço	1
 kiddo	1
 kev	1
 hayatou	1
-então	1
 fiz	1
 umas	1
-contratações	1
 entrou	1
 neymar	1
-guiñazu	1
-fábio	1
 saiu	1
 fosse	1
 vdd	1
@@ -13771,13 +13623,11 @@ mdgs	1
 realization	1
 cheltenham	1
 pacquiao	1
-jugará	1
 ratifica	1
 soyespectador	1
 campionatul	1
 mondial	1
 fotbal	1
-desfășura	1
 vara	1
 quiero	1
 arriba	1
@@ -13801,8 +13651,6 @@ falar	1
 cmg	1
 whyfootballisbetterthansoccer	1
 nossso	1
-pé	1
-serán	1
 belie	1
 broek	1
 uswnt	1
@@ -13811,7 +13659,6 @@ ligue	1
 besten	1
 italiens	1
 saison	1
-gekü	1
 oiga	1
 voz	1
 destacado	1
@@ -13884,13 +13731,9 @@ daylife	1
 recap	1
 rangersfc	1
 equipe	1
-balneário	1
-campeã	1
-gaúcha	1
 linesman	1
 arensal	1
 chillings	1
-típico	1
 corinthiano	1
 dynamo	1
 febru	1
@@ -13955,9 +13798,7 @@ header	1
 addressing	1
 unsafe	1
 santiago	1
-bernabéu	1
 tapas	1
-cañas	1
 rocke	1
 liteforex	1
 panserraikos	1
@@ -13995,7 +13836,6 @@ huerta	1
 gi	1
 clasico	1
 mitzi	1
-suárez	1
 newmfx	1
 intercontinental	1
 fanks	1
@@ -14004,13 +13844,8 @@ eid	1
 l8	1
 overreacted	1
 dfm	1
-最新のfifaランク	1
 jfa2011	1
-j_toku	1
 jleague	1
-fifaランク	1
-rt日本	1
-fifaランキング	1
 pvv	1
 nederlands	1
 elftal	1
@@ -14038,7 +13873,6 @@ estimable	1
 bcfc	1
 levein	1
 scotlands	1
-日本がfifaランキング	1
 jfa	1
 romantic	1
 boarding	1
@@ -14111,8 +13945,6 @@ dividida	1
 catar	1
 organizada	1
 cofederations	1
-2022年w杯開催国に手をあげてたのに	1
-2022年w杯開催国決定地のカタールで決勝とは	1
 kickoff	1
 wew	1
 wigan	1
@@ -14157,7 +13989,6 @@ x25a0	1
 falon	1
 nach	1
 emirat	1
-begnügen	1
 wollen	1
 finit	1
 remporter	1
@@ -14179,7 +14010,6 @@ boasts	1
 holographic	1
 conquest	1
 erneuerung	1
-könnte	1
 nahen	1
 favourites	1
 slovenia	1
@@ -14234,7 +14064,6 @@ lineswomen	1
 comparetradeprices	1
 smae	1
 gobshites	1
-soccerやってるから接続悪いなり	1
 tsunami	1
 hameez	1
 fifasoccer11	1
@@ -14298,9 +14127,7 @@ jermaine	1
 mates	1
 logical	1
 veja	1
-notícias	1
 deste	1
-descrição	1
 baixa	1
 bari	1
 gillet	1
@@ -14422,11 +14249,9 @@ lasttrain	1
 darkfantasy	1
 lttp	1
 pymongo	1
-_id	1
 quering	1
 exclude	1
 odio	1
-restricción	1
 minutos	1
 futurama	1
 paltrow	1
@@ -14467,7 +14292,6 @@ deborah	1
 hargreaves	1
 suscribite	1
 recibir	1
-número	1
 gabe	1
 escalated	1
 chimed	1
@@ -14515,7 +14339,6 @@ bunn	1
 sprouse	1
 pracy	1
 nad	1
-związku	1
 ukazaniem	1
 zbiorczego	1
 wydania	1
@@ -14552,8 +14375,6 @@ beetlejuice	1
 raven	1
 revela	1
 importancia	1
-integración	1
-campañas	1
 ledley	1
 korfbal	1
 consistently	1
@@ -14697,7 +14518,6 @@ governador	1
 mulher	1
 assaltada	1
 pega	1
-cidadão	1
 macumba	1
 braba	1
 aprueba	1
@@ -14718,7 +14538,6 @@ tod	1
 cite	1
 soleil	1
 nouveau	1
-émis	1
 ouvrant	1
 porte	1
 stil	1
@@ -14778,7 +14597,6 @@ twitkreyol	1
 listo	1
 regresar	1
 ayudar	1
-educación	1
 vocera	1
 toddlers	1
 tiaras	1
@@ -14792,10 +14610,7 @@ sonya	1
 mortalkombat	1
 customs	1
 ports	1
-malgré	1
-début	1
 accrocher	1
-après	1
 midi	1
 genoa	1
 risque	1
@@ -14809,8 +14624,6 @@ precio	1
 schwester	1
 danceee	1
 plunkett	1
-sería	1
-mí	1
 estuviera	1
 edad	1
 haitijp	1
@@ -14882,11 +14695,8 @@ thursda	1
 presidentail	1
 contested	1
 ctaung	1
-organización	1
-ponceña	1
 limbs	1
 llevar	1
-prótesis	1
 victimas	1
 setbacks	1
 duri	1
@@ -14896,8 +14706,6 @@ crocodile	1
 reptilenews	1
 colbert	1
 viacom	1
-légende	1
-discrète	1
 mort	1
 haitielection	1
 rtp	1
@@ -14948,7 +14756,6 @@ bloque	1
 avoirs	1
 dictateur	1
 instability	1
-suíça	1
 congelamento	1
 bens	1
 babydoc	1
@@ -14997,7 +14804,6 @@ abre	1
 learnis	1
 arist	1
 desmienten	1
-esté	1
 imperialismfail	1
 autorisent	1
 kuzban	1
@@ -15018,7 +14824,6 @@ mentality	1
 returnthefavour	1
 100followersb4february	1
 slippers	1
-célestin	1
 ayiti	1
 deaththreat	1
 golazo	1
@@ -15056,7 +14861,6 @@ cvhaitimission	1
 tonelada	1
 dioj	1
 juicio	1
-leí	1
 contabilidad	1
 entro	1
 clase	1
@@ -15119,10 +14923,7 @@ kipman	1
 embaixador	1
 momento	1
 qualquer	1
-participação	1
 tanto	1
-dépend	1
-décision	1
 dictador	1
 manos	1
 descartan	1
@@ -15174,10 +14975,8 @@ independenica	1
 instigating	1
 faraoh	1
 manipulating	1
-fortalecerá	1
 unido	1
 purpose	1
-perú	1
 helloooo	1
 eltahrir	1
 sidan	1
@@ -15212,7 +15011,6 @@ guapoo	1
 alternet	1
 dimitar	1
 miserable	1
-presentó	1
 aca	1
 tamales	1
 comeremos	1
@@ -15234,7 +15032,6 @@ acohol	1
 pido	1
 disculpas	1
 vulgaridad	1
-befürchtung	1
 tanke	1
 angezeigt	1
 displayfehler	1
@@ -15256,8 +15053,6 @@ installiert	1
 patty	1
 anecdotes	1
 drs	1
-müde	1
-draußen	1
 ises	1
 kalt	1
 brrr	1
@@ -15277,7 +15072,6 @@ biehl	1
 everis	1
 busca	1
 integrante	1
-diseñador	1
 grafico	1
 proactivo	1
 recien	1
@@ -15291,20 +15085,15 @@ baekkyoung	1
 resolutions	1
 33k	1
 casal	1
-gêmeos	1
 unica	1
 minuscule	1
 harming	1
-süß	1
 seid	1
 kinders	1
 gestern	1
-großer	1
 kuchen	1
 reckon	1
 geschichte	1
-redução	1
-preços	1
 x360	1
 obedience	1
 equals	1
@@ -15319,7 +15108,6 @@ lov	1
 pegados	1
 hablarian	1
 piyay	1
-konsènan	1
 ipap	1
 krystal	1
 voye	1
@@ -15354,7 +15142,6 @@ faltan	1
 estadio	1
 azteca	1
 u2live	1
-equívocos	1
 marquesa	1
 biblioteca	1
 troux	1
@@ -15365,17 +15152,14 @@ alfredoflores	1
 beastmode	1
 attest	1
 wackado	1
-víctima	1
 larga	1
 lista	1
-polémicas	1
 bbcmundo	1
 k3po	1
 3po	1
 minifig	1
 hoth	1
 isd	1
-dueña	1
 promover	1
 estatal	1
 hidalgo	1
@@ -15388,12 +15172,10 @@ frie	1
 litoral	1
 festas	1
 maaara	1
-sueño	1
 campeonato	1
 dip	1
 entregada	1
 comprometida	1
-cumpleaños	1
 ironclad	1
 giamatti	1
 ese	1
@@ -15410,14 +15192,12 @@ grim	1
 rheumatoid	1
 underused	1
 quejarse	1
-deberían	1
 invitar	1
 probar	1
 mastretta	1
 conocer	1
 cambien	1
 opninion	1
-empresário	1
 belo	1
 agride	1
 pagodeiro	1
@@ -15434,7 +15214,6 @@ ivanhoe	1
 breakdown	1
 consulta	1
 evangelismo	1
-universitário	1
 crosses	1
 segundo	1
 sobrepeso	1
@@ -15463,7 +15242,6 @@ acusa	1
 roubar	1
 resultados	1
 buscador	1
-prática	1
 taxotere	1
 seventy	1
 thro	1
@@ -15514,14 +15292,12 @@ petrolheads	1
 cranleigh	1
 vaguely	1
 yucatan	1
-gawe鳥でた	1
 timemostpopular	1
 principals	1
 declines	1
 homeshould	1
 buscamos	1
 representantes	1
-sección	1
 informes	1
 supershowinlatinamerica	1
 yukk	1
@@ -15674,10 +15450,8 @@ escuela	1
 fologera	1
 jejje	1
 klar	1
-kloßbrühe	1
 urteil	1
 woche	1
-prüfe	1
 studium	1
 zahlt	1
 imports	1
@@ -15698,12 +15472,10 @@ wily	1
 punky	1
 obsc	1
 tamalada	1
-16jährige	1
 welumseglerin	1
 vorher	1
 damit	1
 rei	1
-warsもっと普及すればいいのに	1
 guarda	1
 vallarta	1
 considerable	1
@@ -15724,19 +15496,15 @@ aplaudimos	1
 satanizamos	1
 zelda	1
 skyward	1
-lässt	1
 ocarina	1
 vortritt	1
 e3	1
-verkündet	1
 confirma	1
 gio	1
-opción	1
 compra	1
 delantero	1
 cudi	1
 negocian	1
-homologación	1
 tratados	1
 equipos	1
 negociadores	1
@@ -15768,16 +15536,12 @@ apoyen	1
 crimen	1
 organizado	1
 diminishing	1
-inaugurará	1
 morelia	1
-anfitrión	1
-aún	1
 definir	1
 liking	1
 nerdpride	1
 imagem	1
 personagens	1
-épicos	1
 filme	1
 leve	1
 toque	1
@@ -15786,7 +15550,6 @@ encontro	1
 sangre	1
 overreacting	1
 cancelling	1
-mazatlán	1
 amazi	1
 whoops	1
 ccsvi	1
@@ -15802,7 +15565,6 @@ mitte	1
 hannover	1
 punkten	1
 kurzem	1
-frühstück	1
 dort	1
 imperil	1
 barest	1
@@ -15845,7 +15607,6 @@ medpage	1
 suspend	1
 arraigan	1
 sobrecargo	1
-aeroméxico	1
 cal	1
 infonyc	1
 environmentalists	1
@@ -15859,7 +15620,6 @@ smuggled	1
 phony	1
 infierno	1
 chamizal	1
-querétaro	1
 starwars	1
 kerlikowske	1
 propecia	1
@@ -15879,10 +15639,6 @@ largactil	1
 antipsychotic	1
 crusades	1
 moviepitch	1
-baß	1
-bäßer	1
-baßt	1
-blödes	1
 erste	1
 versuch	1
 zeigte	1
@@ -15922,7 +15678,6 @@ casualties	1
 unete	1
 vigalante	1
 narvarte	1
-maría	1
 vertiz	1
 monte	1
 alban	1
@@ -15951,14 +15706,12 @@ lasted	1
 foray	1
 boxeadores	1
 guerreros	1
-países	1
 croacia	1
 barbados	1
 wsb	1
 nefasto	1
 congreso	1
 podrido	1
-están	1
 acorralando	1
 miden	1
 consecuencias	1
@@ -15992,9 +15745,7 @@ knie	1
 nimm	1
 ihn	1
 mund	1
-wußte	1
 geil	1
-berührungsängs	1
 1970s	1
 dru	1
 julho	1
@@ -16044,7 +15795,6 @@ aircanada	1
 kilo	1
 obam	1
 hommes	1
-décapités	1
 guerre	1
 parle	1
 drogue	1
@@ -16067,13 +15817,11 @@ hakim	1
 shitmyprofessorsays	1
 jsyk	1
 remedy	1
-percepción	1
 richards	1
 bsr	1
 declarado	1
 sectur	1
 desarrollo	1
-potencia_turistica	1
 felipecalderon	1
 gloriaguevara	1
 stimulate	1
@@ -16092,7 +15840,6 @@ amazed	1
 preocupadisimos	1
 prd	1
 convg	1
-fantástica	1
 irrealidad	1
 mexicos	1
 busts	1
@@ -16114,9 +15861,6 @@ mwomen	1
 reitero	1
 compromiso	1
 fortalecimiento	1
-relación	1
-ámbitos	1
-difícil	1
 entender	1
 pasteleo	1
 trini	1
@@ -16130,14 +15874,9 @@ expertos	1
 internacionalistas	1
 jimenez	1
 gov20	1
-páez	1
 analfabeto	1
 adulto	1
-inglés	1
-francés	1
 tocando	1
-éste	1
-preguntó	1
 badaa	1
 chotaa	1
 desh	1
@@ -16155,16 +15894,12 @@ russianews	1
 zakayev	1
 separati	1
 sudcaliforniano	1
-hezbolá	1
-líbano	1
-afectaría	1
 lazos	1
 section	1
 deadpresidents	1
 grimy	1
 comprometido	1
 cerrar	1
-prisión	1
 calderon	1
 gane	1
 debe	1
@@ -16177,7 +15912,6 @@ espaldarazo	1
 persiste	1
 incertidumbre	1
 mientras	1
-caído	1
 buscados	1
 declaraciones	1
 vertidas	1
@@ -16188,7 +15922,6 @@ creer	1
 apoye	1
 trajo	1
 regalo	1
-cojín	1
 hoisted	1
 objection	1
 hoisting	1
@@ -16204,7 +15937,6 @@ shd	1
 switchers	1
 gopfail	1
 prioridad	1
-reunión	1
 inade	1
 remington	1
 coated	1
@@ -16235,9 +15967,7 @@ triangulation	1
 martha	1
 tyler	1
 remia	1
-meksiką	1
 kovoje	1
-narkotikų	1
 karteliais	1
 lara	1
 gardner	1
@@ -16250,7 +15980,6 @@ featurin	1
 aplaude	1
 esfuerzos	1
 mexicano	1
-choreamemásporfavor	1
 lohanteam	1
 toone	1
 protestan	1
@@ -16265,7 +15994,6 @@ originally	1
 ezln	1
 asshole	1
 entendijte	1
-negó	1
 habalr	1
 ttot	1
 persists	1
@@ -16303,7 +16031,6 @@ emperor	1
 proibir	1
 consumo	1
 criminalidade	1
-liberaçao	1
 fecha	1
 presidios	1
 criminosos	1
@@ -16400,8 +16127,6 @@ walkie	1
 talkie	1
 avph	1
 headsets	1
-bálint	1
-rádóczy	1
 projected	1
 cline	1
 meaningful	1
@@ -16518,12 +16243,10 @@ uniquedaily	1
 adli	1
 hotmail	1
 aliases	1
-windows_live	1
 troubleshooting	1
 congresswoman	1
 doubtful	1
 gorguissian	1
-apresentação	1
 futuro	1
 ballmer	1
 aps	1
@@ -16535,7 +16258,6 @@ p2p	1
 mesh	1
 esa	1
 verification	1
-ありがとうipod	1
 practicing	1
 computersystemsanalyst	1
 jill	1
@@ -16560,7 +16282,6 @@ bookkeeper	1
 glasgow	1
 redefine	1
 enterta	1
-computer_mediated	1
 ftf	1
 computingconfiguration	1
 unddatacenter	1
@@ -16595,7 +16316,6 @@ zwaar	1
 onder	1
 indruk	1
 maken	1
-één	1
 hnw	1
 leigh	1
 kr	1
@@ -16625,7 +16345,6 @@ newsbucket	1
 ivy	1
 grads	1
 pune	1
-tuxanchi_kasu	1
 thuggery	1
 prevented	1
 grr	1
@@ -16651,7 +16370,6 @@ uec	1
 penetrate	1
 prikloni	1
 tudi	1
-ivanišević	1
 myopinion	1
 lasting	1
 immeasurable	1
@@ -16666,7 +16384,6 @@ keterangan	1
 mengenai	1
 vatican	1
 benedict	1
-totc_new_photo	1
 syndrome	1
 robo	1
 kops	1
@@ -16736,7 +16453,6 @@ kasr	1
 practices	1
 mutzabaugh	1
 commento	1
-può	1
 darsi	1
 stato	1
 inserito	1
@@ -16804,7 +16520,6 @@ adolescent	1
 wallpaper	1
 syba	1
 onsale	1
-computer_security	1
 aggravated	1
 apparatus	1
 fof	1
@@ -16818,13 +16533,11 @@ exeter	1
 gaithersburg	1
 whisperer	1
 ssd	1
-technology_news	1
 vmware	1
 librarian	1
 digitallibraryjobs	1
 opiop	1
 sharma	1
-computerで注文	1
 silosphere	1
 optimized	1
 courtesy	1
@@ -16983,7 +16696,6 @@ avg	1
 netlog	1
 paycheck	1
 pioneiro	1
-segurança	1
 biografia	1
 halldafama	1
 richfield	1
@@ -16997,11 +16709,8 @@ iaas	1
 checklist	1
 univers	1
 odg	1
-želim	1
 vsrc	1
 kalendar	1
-narudžbe	1
-miševi	1
 ste	1
 prepali	1
 mogli	1
@@ -17091,7 +16800,6 @@ jiang	1
 symantec	1
 540tvline	1
 dangerousprototypes	1
-com_unable	1
 retrospect	1
 ergonomic	1
 railed	1
@@ -17122,14 +16830,11 @@ dhilipsiva	1
 superstarbing	1
 havec	1
 pharoah	1
-gastoþ	1
 sunja	1
-þan	1
 liugn	1
 seinaim	1
 liugnja	1
 operati	1
-k_securities	1
 ptt	1
 ivl	1
 pttar	1
@@ -17212,7 +16917,6 @@ doktorska	1
 disertacija	1
 ekspert	1
 ovakvog	1
-još	1
 sreli	1
 garantujem	1
 lianda	1
@@ -17260,7 +16964,6 @@ p4	1
 businessservices	1
 ediscovery	1
 tandenpoetsen	1
-mondhygiëniste	1
 rtl	1
 techdata	1
 dinamiqs	1
@@ -17331,9 +17034,7 @@ tiwi	1
 ratin	1
 digita	1
 etsi	1
-さんが多大な貢献をなされたxades	1
 cades	1
-remoteテストの話	1
 craigggggggg	1
 adjusts	1
 deciding	1
@@ -17534,11 +17235,8 @@ makita	1
 68k	1
 acessem	1
 vejam	1
-página	1
 projeto	1
-bíblia	1
 ponta	1
-língua	1
 destaque	1
 jngan	1
 serius	1
@@ -17655,7 +17353,6 @@ alegria	1
 tentativa	1
 sofrimento	1
 envolvido	1
-vitória	1
 propriamente	1
 mahatma	1
 onlive	1
@@ -17673,12 +17370,10 @@ naadikakosahdwp	1
 nix	1
 boxed	1
 chez	1
-déjà	1
 sembarang	1
 wahh	1
 mosok	1
 seh	1
-今年のnsaメンバーシップカードの写真は新港じゃないか	1
 orcaeyes	1
 avert	1
 likeminds	1
@@ -17728,15 +17423,10 @@ ful	1
 stryk	1
 ska	1
 bryta	1
-lägga	1
 liten	1
-låda	1
-gräva	1
-hål	1
 ner	1
 kina	1
 dumpa	1
-där	1
 timw	1
 shorties	1
 carver	1
@@ -17748,7 +17438,6 @@ apoptotic	1
 apoptosis	1
 adenovira	1
 postando	1
-informações	1
 ruadasbarracas	1
 comunidades	1
 referentes	1
@@ -17763,14 +17452,9 @@ sra	1
 intercedei	1
 saude	1
 fazem	1
-missão	1
 twithelp	1
 snacks	1
-gör	1
-våra	1
 smileys	1
-här	1
-alltså	1
 kolon	1
 likamedtecken	1
 eller	1
@@ -17931,7 +17615,6 @@ blackshaw	1
 hadopi	1
 aniversario	1
 hojee	1
-parabénsa	1
 liinda	1
 ideia	1
 bjsss	1
@@ -18029,11 +17712,9 @@ peixe	1
 peixinho	1
 trata	1
 imprensa	1
-mídia	1
 desse	1
 jeito	1
 respeita	1
-fãs	1
 hating	1
 trufar	1
 convene	1
@@ -18066,7 +17747,6 @@ appearances	1
 maths	1
 orwelliana	1
 relaciones	1
-íntimas	1
 superagencia	1
 inteligencia	1
 eeuu	1
@@ -18281,9 +17961,7 @@ grang	1
 digayaii	1
 creativematch	1
 akon	1
-adolescência	1
 palavra	1
-depressão	1
 verdade	1
 significava	1
 buraco	1
@@ -18352,7 +18030,6 @@ bakit	1
 puro	1
 nagfofollow	1
 azra	1
-akın	1
 kimdir	1
 wieden	1
 dignan	1
@@ -18388,7 +18065,6 @@ conflist	1
 intertst	1
 ranting	1
 sociologist	1
-braço	1
 direito	1
 doer	1
 hirap	1
@@ -18424,17 +18100,13 @@ mghapon	1
 servants	1
 vanguard	1
 amaechi	1
-yaşında	1
-lık	1
 larca	1
-şirket	1
 45yr	1
 redeye	1
 selon	1
 plusieurs	1
 concordantes	1
 aurait	1
-embauché	1
 radicalization	1
 naiinis	1
 naiisip	1
@@ -18448,19 +18120,13 @@ stolt	1
 meddela	1
 vinskribent	1
 kommer	1
-även	1
 vinblogga	1
-skål	1
-välkommen	1
 twiw	1
 midterm	1
 al3ib	1
 itajammo	1
 fi9ou	1
-yé	1
-twénsa	1
 rcd	1
-dégaaaaage	1
 waist	1
 kaso	1
 tnry	1
@@ -18485,11 +18151,8 @@ halaah	1
 nkalmtan	1
 isa	1
 uli	1
-uzaylılar	1
 varsa	1
-kadınsa	1
 ilk	1
-adımı	1
 bizden	1
 bekliyor	1
 olabilirler	1
@@ -18512,7 +18175,6 @@ faux	1
 connecteur	1
 microusb	1
 liaison	1
-problème	1
 similaire	1
 whitehead	1
 steaming	1
@@ -18535,8 +18197,6 @@ stoked	1
 bashmore	1
 stockton	1
 duyst	1
-délivre	1
-délivré	1
 taj	1
 hurricane	1
 peep	1
@@ -18632,11 +18292,9 @@ northwestern	1
 socialbakers	1
 ridgway	1
 acquits	1
-hyde_park	1
 uhub	1
 21yr	1
 cotdamn	1
-murderம	1
 charueffect	1
 scrap	1
 furthe	1
@@ -18662,7 +18320,6 @@ cherokee	1
 personnel	1
 tuesda	1
 carefull	1
-life_lessons	1
 chanews	1
 bubblegum	1
 bandit	1
@@ -18821,9 +18478,6 @@ tyree	1
 homosexual	1
 wymt	1
 firenews	1
-utiču	1
-imidž	1
-šef	1
 italijanske	1
 diplomatije	1
 franko	1
@@ -18841,7 +18495,6 @@ diabetic	1
 quitter	1
 rapist	1
 tankeri	1
-ateşe	1
 verildi	1
 buckeyes	1
 49th	1
@@ -18909,7 +18562,6 @@ a80	1
 faizan	1
 tryraymond	1
 feb6	1
-bbc速報ページの動画から	1
 nid	1
 aknowledge	1
 wiv	1
@@ -18934,7 +18586,6 @@ perfectten	1
 wri	1
 copeland	1
 fleming	1
-murderの称号が欲しいので出会った敵は全て殺す	1
 drowned	1
 pdx	1
 waww	1
@@ -19072,9 +18723,7 @@ tinderbox	1
 akbars	1
 gnite	1
 lgf	1
-cúpula	1
 governo	1
-egípcio	1
 piora	1
 medida	1
 manifestantes	1
@@ -19109,12 +18758,8 @@ sobulan	1
 tuladeh	1
 bl	1
 sant	1
-ajeの他	1
 ginsberg	1
-bbc英語	1
 refused	1
-bbcは	1
-普段はそのwebを国外に公開しないけど	1
 magdi	1
 abdelhari	1
 erupted	1
@@ -19142,22 +18787,15 @@ flicker	1
 mov	1
 diplo	1
 hiker	1
-live付けっ放しで寝るか	1
 moreover	1
-bbcではエジプト関連の生放送をサイトからストリーミングしているようです	1
 deadlocked	1
 hamlet	1
 krizi	1
 lahor	1
 kentinde	1
-görev	1
 yapan	1
-amerikalı	1
-diplomatın	1
 kendisine	1
-saldıran	1
 iki	1
-kişiyi	1
 barred	1
 larsen	1
 whatsoever	1
@@ -19307,7 +18945,6 @@ mana	1
 nahi	1
 kartay	1
 auth	1
-harris_county	1
 apologised	1
 axis	1
 kemp	1
@@ -19330,7 +18967,6 @@ manch	1
 m60	1
 wareham	1
 rezendes	1
-big_sis	1
 fascism	1
 surf	1
 silentwitness	1
@@ -19466,12 +19102,10 @@ alphatra	1
 arstech	1
 sexiest	1
 blip	1
-auのregza	1
 teamiphone	1
 pats	1
 playbooks	1
 hazzem	1
-releasedاخو	1
 wayyyy	1
 alisdairmorrin	1
 civic	1
@@ -19506,10 +19140,7 @@ pantesan	1
 buka	1
 slitaz	1
 ile	1
-şifrelemeli	1
-programı	1
 toplam	1
-bugün	1
 boyut	1
 sod	1
 shotguns	1
@@ -19590,7 +19221,6 @@ forcibly	1
 medicate	1
 osmond	1
 decoteau	1
-でも本当に集中するならphoneブースだね	1
 rort	1
 surcharge	1
 twentieth	1
@@ -19619,9 +19249,6 @@ smack	1
 fani	1
 jger	1
 pwahaha	1
-普段変則配列の英語キーボードhappy	1
-proを使っているせいもあり非常に使いづらい	1
-無線式のhhkb出ませんかね	1
 worcestershire	1
 oldest	1
 codex	1
@@ -19753,7 +19380,6 @@ dispense	1
 frontierville	1
 petville	1
 rapidshare	1
-のcmがかなり不気味と話題に	1
 gained	1
 permit	1
 exploitation	1
@@ -19828,7 +19454,6 @@ iahh	1
 synggg	1
 fbkuu	1
 dho	1
-councilข	1
 yachting	1
 sailors	1
 wrecked	1
@@ -19962,7 +19587,6 @@ bm	1
 contestant	1
 epictweets	1
 omgiknowright	1
-phone買うのに一番安い方法ってご存知な方いらっしゃりませんかー	1
 gaff	1
 stereotyping	1
 jihadi	1
@@ -20089,8 +19713,6 @@ carol	1
 mosely	1
 cudlipp	1
 retribution	1
-bình	1
-dương	1
 lever	1
 shifty	1
 ballerina	1
@@ -20101,7 +19723,6 @@ leadchange	1
 gtd	1
 nez	1
 gmna	1
-ωkωk	1
 pasti	1
 najong	1
 jod	1
@@ -20188,21 +19809,8 @@ vondra	1
 rbs	1
 soteria	1
 dodgy	1
-thành	1
-công	1
-mình	1
-bản	1
-chính	1
-gốc	1
-của	1
 4vn	1
-với	1
-giá	1
-trên	1
-trời	1
 3tr2	1
-vậy	1
-mà	1
 discharged	1
 bbckazoo	1
 carrierpigeons	1
@@ -20221,8 +19829,6 @@ shipped	1
 phon	1
 mpa	1
 smokescreen	1
-toàn	1
-quốc	1
 digit	1
 dwarf	1
 tessa	1
@@ -20253,8 +19859,6 @@ jenny	1
 r4today	1
 p7000	1
 tagg	1
-cell_phone	1
-cell_phones	1
 bulldog	1
 bnp	1
 chancesare	1
@@ -20270,10 +19874,7 @@ morals	1
 dodo	1
 openbts	1
 vinagame	1
-kiếm	1
-thế	1
 phong	1
-thần	1
 yates	1
 aberrant	1
 cognitivesurplus	1
@@ -20295,7 +19896,6 @@ sel	1
 montre	1
 compris	1
 encourageant	1
-ça	1
 plaisir	1
 igngreat	1
 slutty	1
@@ -20311,10 +19911,7 @@ neces	1
 encouraged	1
 biggot	1
 dimito	1
-confío	1
 vosotros	1
-sé	1
-tenéis	1
 aprecio	1
 alistair	1
 tumbled	1
@@ -20383,9 +19980,6 @@ itt	1
 sarko	1
 victime	1
 dernier	1
-duré	1
-annonçait	1
-représenterait	1
 trumka	1
 challenged	1
 nationalist	1
@@ -20439,9 +20033,6 @@ jamnav	1
 juvi	1
 anorexia	1
 fant	1
-kjøretøy	1
-ført	1
-uønsket	1
 aks	1
 loooove	1
 facelift	1
@@ -20491,7 +20082,6 @@ ifwt	1
 sauce	1
 womanup	1
 fallas	1
-electrónicos	1
 maegan	1
 bouzizi	1
 drugged	1
@@ -20576,7 +20166,6 @@ gregory	1
 isakov	1
 camping	1
 mountains	1
-phv_2011	1
 sgame	1
 imperialis	1
 zullen	1
@@ -20588,7 +20177,6 @@ lucro	1
 trimestral	1
 metade	1
 eleva	1
-previsões	1
 comprandocarro	1
 completing	1
 laba	1
@@ -20602,9 +20190,7 @@ requiring	1
 sandiego	1
 landcruiser	1
 paradies	1
-frühzeitig	1
 beendet	1
-müssen	1
 maledive	1
 jadinya	1
 monorail	1
@@ -20625,7 +20211,6 @@ reporte	1
 slumping	1
 redesigns	1
 eiskratzen	1
-wärme	1
 einsteigen	1
 weihnachten	1
 schenken	1
@@ -20640,13 +20225,11 @@ baut	1
 hybridangebot	1
 genfer	1
 bis	1
-märz	1
 welt	1
 pipes	1
 apologize	1
 produjo	1
 planta	1
-zárate	1
 hoard	1
 bitartrate	1
 qualitest	1
@@ -20765,7 +20348,6 @@ totalrecall	1
 bicycles	1
 speeding	1
 motorists	1
-revisión	1
 meningitis	1
 retinal	1
 necrosis	1
@@ -20795,10 +20377,8 @@ tokaisl	1
 reflector	1
 suggestion	1
 altima	1
-v10_pl	1
 lat	1
 okazuje	1
-że	1
 letni	1
 starus	1
 deliveries	1
@@ -20819,7 +20399,6 @@ hershey	1
 promoted	1
 63ps	1
 128000km	1
-mönchengladbach	1
 manufactured	1
 canucks	1
 cody	1
@@ -20882,7 +20461,6 @@ chroniclelive	1
 eelegido	1
 ralt	1
 rt3	1
-tendré	1
 msqdce	1
 effectiveness	1
 isolation	1
@@ -20890,7 +20468,6 @@ harmonic	1
 damper	1
 pulley	1
 removal	1
-poison_king	1
 hemmings	1
 suburban	1
 zorbak	1
@@ -20942,21 +20519,12 @@ holdings	1
 ipo	1
 ruft	1
 millionen	1
-zurück	1
 pfffhhhh	1
-revisará	1
-vehículos	1
 pimped	1
 wheelchair	1
 milyon	1
-aracını	1
 geri	1
-çağırıyor	1
 otomotiv	1
-şirketi	1
-yakıt	1
-sızıntısı	1
-playingなう	1
 hoshi	1
 zora	1
 twitmusic	1
@@ -20970,18 +20538,13 @@ irit	1
 blass	1
 usat	1
 megarecall	1
-milhão	1
-veículos	1
 virginblue	1
 tarmac	1
 reifen	1
 felgen	1
 versu	1
-çıkarız	1
 yola	1
 toyotayn	1
-artık	1
-güzel	1
 bekliyoruz	1
 identify	1
 darvocet	1
@@ -20994,12 +20557,10 @@ jutaan	1
 akibat	1
 kerusakan	1
 pipa	1
-rückrufaktion	1
 benzin	1
 variou	1
 weltweit	1
 fahrzeuge	1
-zurückrufen	1
 pannenserie	1
 weiter	1
 buggy	1
@@ -21025,12 +20586,9 @@ battered	1
 tarnis	1
 jogging	1
 stroller	1
-toyotaのデザインどうにかならないのか	1
-liderança	1
 maior	1
 montadora	1
 crescimento	1
-relação	1
 crise	1
 latestnews	1
 hotnews	1
@@ -21040,17 +20598,8 @@ berita	1
 tally	1
 hartwell	1
 areaft86	1
-växte	1
-åtta	1
 procent	1
-befäste	1
-ställning	1
-världens	1
-största	1
 biltillverkare	1
-förra	1
-året	1
-före	1
 kijang	1
 inova	1
 nomor	1
@@ -21182,7 +20731,6 @@ marito	1
 mulder	1
 selva	1
 cachito	1
-capítulo	1
 resplandor	1
 fathers	1
 dictatorships	1
@@ -21194,8 +20742,6 @@ konusu	1
 afric	1
 daddies	1
 heartbreak	1
-zerstörungen	1
-ägyptischen	1
 fleeting	1
 webbles	1
 concerning	1
@@ -21207,7 +20753,6 @@ seriousness	1
 revolting	1
 destabilize	1
 nonscientists	1
-drudge_report	1
 possessions	1
 goofing	1
 shopkeepers	1
@@ -21279,8 +20824,6 @@ appraisals	1
 bra	1
 wealthy	1
 duas	1
-múmias	1
-destruídas	1
 museu	1
 protestos	1
 ontem	1
@@ -21400,7 +20943,6 @@ courageous	1
 ton	1
 waiter	1
 jsc	1
-上杉隆氏のtwitterでの告知から拡散中	1
 gigantic	1
 egyptrev	1
 ruin	1
@@ -21455,7 +20997,6 @@ launcing	1
 orwellian	1
 lockdown	1
 beaumont	1
-rt_	1
 reinforcements	1
 dayofrage	1
 so3odiya	1
@@ -21504,7 +21045,6 @@ biggst	1
 anon	1
 overthrowing	1
 reformist	1
-というエントリーがwikipediaに作られています	1
 moriartmuseum	1
 rebukes	1
 repressive	1
@@ -21512,9 +21052,7 @@ azerbaijani	1
 pple	1
 emerge	1
 linki	1
-koyayım	1
 isim	1
-gerçekmiş	1
 gibi	1
 olsun	1
 jaderevolution	1
@@ -21544,7 +21082,6 @@ scien	1
 p2ca	1
 prohibits	1
 taping	1
-wejew_jewish	1
 explodes	1
 schnitzer	1
 tamizhar	1
@@ -21593,7 +21130,6 @@ inetrior	1
 82nd	1
 kaws	1
 aldrich	1
-recién	1
 entero	1
 bullock	1
 luther	1
@@ -21643,7 +21179,6 @@ italiano	1
 ehcar	1
 ojo	1
 tercer	1
-párrafo	1
 calibration	1
 renaults	1
 tura	1
@@ -21781,7 +21316,6 @@ truckers	1
 bidden	1
 screwed	1
 diez	1
-cañones	1
 popa	1
 crashers	1
 eliza	1
@@ -21823,7 +21357,6 @@ endure	1
 terrified	1
 humorist	1
 hy	1
-empeña	1
 llamar	1
 pollito	1
 quenefastowe	1
@@ -21847,7 +21380,6 @@ aaah	1
 muis	1
 dood	1
 serisisinin	1
-tamamını	1
 izlemeniz	1
 tavsiye	1
 edilir	1
@@ -21935,7 +21467,6 @@ scottpilgrim	1
 limerick	1
 crashcourse	1
 snaking	1
-suécia	1
 marcus	1
 gronholm	1
 peugeot	1
@@ -21943,7 +21474,6 @@ tommi	1
 makinen	1
 subaru	1
 impreza	1
-s93º	1
 xinhua	1
 wtff	1
 saai	1
@@ -21997,13 +21527,10 @@ stonefly	1
 mtbuller	1
 ambmag	1
 outra	1
-quentíssima	1
 bessa	1
-jacaré	1
 nesses	1
 casos	1
 acabam	1
-média	1
 rink	1
 improvised	1
 misd	1
@@ -22025,7 +21552,6 @@ suits	1
 jeggings	1
 calorie	1
 baseline	1
-voló	1
 chaz	1
 contesting	1
 useless	1
@@ -22063,7 +21589,6 @@ fw26	1
 beers	1
 cierra	1
 checo	1
-pérez	1
 termina	1
 octavo	1
 gorter	1
@@ -22099,7 +21624,6 @@ brightest	1
 15min	1
 bati	1
 merecidisimo	1
-andorra_tour	1
 a5	1
 printed	1
 stp	1
@@ -22149,7 +21673,6 @@ booger	1
 sososickofwinter	1
 cfd	1
 portion	1
-damián	1
 informativos	1
 telecinco	1
 reconsiders	1
@@ -22170,10 +21693,7 @@ sho	1
 struck	1
 iris	1
 homop	1
-zamknął	1
-piątkę	1
 czytaj	1
-więcej	1
 alguna	1
 rabble	1
 carnarvon	1
@@ -22314,19 +21834,14 @@ pullrod	1
 challeng	1
 vuelve	1
 colores	1
-míticos	1
 apresenta	1
 novo	1
 carro	1
 apresentou	1
 nesta	1
 gpupdate	1
-général	1
-accidentées	1
 hermano	1
 viaje	1
-esquí	1
-exámenes	1
 parciales	1
 vergonha	1
 tamanho	1
@@ -22359,7 +21874,6 @@ culvercity	1
 carpool	1
 slows	1
 glider	1
-denver_co	1
 dapd	1
 bayonettaaaaaaaa	1
 3e	1
@@ -22380,7 +21894,6 @@ blissdom	1
 westheimer	1
 brownsville	1
 jaywan	1
-f150のアジャスタブルリアウィングの写真きました	1
 oranges	1
 uavs	1
 uav	1
@@ -22407,8 +21920,6 @@ sandboxing	1
 brundle	1
 owens	1
 latimes	1
-gossip_dance	1
-_businesstravel	1
 fco	1
 ethiopia	1
 antigua	1
@@ -22437,7 +21948,6 @@ pierceco	1
 plummeted	1
 osucommemoration	1
 zware	1
-skiër	1
 ditmaal	1
 scheiben	1
 mpg	1
@@ -22477,9 +21987,7 @@ cruden	1
 stonehaven	1
 09h55	1
 mostra	1
-confiança	1
 brigar	1
-vitórias	1
 esportes	1
 niro	1
 choosin	1
@@ -22572,13 +22080,11 @@ workou	1
 tego	1
 samego	1
 serwisu	1
-młody	1
 nippy	1
 safari	1
 squeeze	1
 wan	1
 otl	1
-crash申し込み	1
 drakensburg	1
 folding	1
 snuck	1
@@ -22603,7 +22109,6 @@ wujuuuu	1
 muuaahh	1
 graaaaan	1
 rola	1
-extrañamos	1
 specialty	1
 aguilar	1
 20box	1
@@ -22658,10 +22163,8 @@ crust	1
 feasting	1
 proverbs	1
 worshipper	1
-prêmio	1
 inventa	1
 bombom	1
-gênios	1
 salaam	1
 obeying	1
 husni	1
@@ -22735,7 +22238,6 @@ jasminrevolution	1
 unofficial	1
 purcell	1
 ulit	1
-confecção	1
 aticum	1
 ftk	1
 severs	1
@@ -22746,7 +22248,6 @@ deepwater	1
 peopl	1
 themselfs	1
 horst	1
-günter	1
 ludolf	1
 emmanuel	1
 jal	1
@@ -22771,7 +22272,6 @@ nomin	1
 bunker	1
 tunbridge	1
 lovee	1
-vilão	1
 explosives	1
 scandalous	1
 implicating	1
@@ -22792,7 +22292,6 @@ flores	1
 faltaron	1
 pedir	1
 monumento	1
-economía	1
 nukes	1
 casablancas	1
 wop	1
@@ -22804,8 +22303,6 @@ teot	1
 60mins	1
 superweapon	1
 peaces	1
-mártir	1
-contemporâneo	1
 cherish	1
 medina	1
 waver	1
@@ -22839,35 +22336,25 @@ blok	1
 o1	1
 wisata	1
 bogor	1
-instó	1
 marcha	1
 internacional	1
 vazamento	1
 recurso	1
 tvgoianiaband	1
 esperes	1
-próxima	1
 jornada	1
 adoptar	1
-visítanos	1
-sáb	1
 mec	1
-déchire	1
 julien	1
-déguisé	1
-échapper	1
 ahhhhhhhhhhhh	1
 continuar	1
 chops	1
 artifice	1
 presentado	1
-nominó	1
 bernabeu	1
-ensueño	1
 tb	1
 julianito	1
 huele	1
-cómo	1
 hacerlo	1
 mses	1
 escondido	1
@@ -22908,7 +22395,6 @@ restlessness	1
 ribadito	1
 quanto	1
 aveva	1
-già	1
 afferma	1
 deletion	1
 rebuttal	1
@@ -22925,12 +22411,9 @@ revelar	1
 avalancha	1
 documentos	1
 secretos	1
-kæmpelæk	1
 blive	1
 sidste	1
 udvej	1
-grundlæggeren	1
-fortæller	1
 hvis	1
 whistle	1
 rivela	1
@@ -22963,7 +22446,6 @@ tuleb	1
 suurim	1
 paljastus	1
 crayon	1
-techcrunch_tv	1
 motive	1
 cautiously	1
 bibi	1
@@ -22978,13 +22460,9 @@ keamanan	1
 mesir	1
 screwing	1
 gostei	1
-português	1
 buch	1
 verkleidete	1
 alte	1
-befürchteten	1
-überwachun	1
-ejecución	1
 jaguars	1
 zoologist	1
 slpeeps	1
@@ -23010,11 +22488,7 @@ sensationalist	1
 aparecer	1
 breve	1
 bohn	1
-imágenes	1
-daños	1
 causados	1
-explosión	1
-depósito	1
 cavim	1
 awesom	1
 stylish	1
@@ -23038,7 +22512,6 @@ volatile	1
 anarchy	1
 commodore	1
 wikileaksbook	1
-üpü	1
 8nr8n8	1
 wikileakso	1
 78o7	1
@@ -23125,7 +22598,6 @@ ouve	1
 adoro	1
 unarmed	1
 confi	1
-agnes_x	1
 disgraceful	1
 keeper	1
 lid	1
@@ -23135,13 +22607,11 @@ milton	1
 babbit	1
 theorist	1
 pedagogue	1
-ŷeah	1
 chai	1
 remembrd	1
 remembr	1
 willard	1
 zewail	1
-très	1
 ngeheeee	1
 menang	1
 taruhan	1
@@ -23177,8 +22647,6 @@ penuh	1
 garagara	1
 statnya	1
 banken	1
-enthüllungen	1
-nervös	1
 frohlockt	1
 maksud	1
 mukanya	1
@@ -23229,7 +22697,6 @@ roodney	1
 unclejoeknowsbest	1
 dynamite	1
 restrepo	1
-unterstützten	1
 bewegung	1
 muncul	1
 beritanya	1
@@ -23245,7 +22712,6 @@ flagging	1
 passages	1
 bangladeshi	1
 localleaks	1
-fünf	1
 sympathisanten	1
 verhaftet	1
 lamin	1
@@ -23256,7 +22722,6 @@ kris	1
 lapota	1
 muahahaha	1
 pearltree	1
-équipe	1
 eats	1
 increasethepeace	1
 gnomeo	1
@@ -23268,7 +22733,6 @@ chechnya	1
 hugged	1
 mensajes	1
 apoyo	1
-sudáfr	1
 neals	1
 regarded	1
 sardar	1
@@ -23289,7 +22753,6 @@ pirating	1
 screeners	1
 skipping	1
 longevity	1
-mairéad	1
 corrigan	1
 nobelpeaceprize	1
 novelists	1
@@ -23355,7 +22818,6 @@ usrc	1
 ecco	1
 alla	1
 notte	1
-più	1
 stellata	1
 agli	1
 pjs	1
@@ -23453,7 +22915,6 @@ oscars2011	1
 eff	1
 peeing	1
 worldpees	1
-ın	1
 oluyor	1
 halen	1
 hapsinde	1
@@ -23500,15 +22961,11 @@ melodies	1
 tosspot	1
 bounty	1
 hornet	1
-según	1
 roncero	1
 mou	1
-tenían	1
 balones	1
 escribe	1
-crackòvia	1
 emmy4yvonne	1
-y_strahovski	1
 tutte	1
 tradizione	1
 metromix	1
@@ -23517,8 +22974,6 @@ prizewinner	1
 wangari	1
 maathi	1
 akzo	1
-fábrica	1
-landing__peace	1
 anthropocene	1
 ethos	1
 crutzen	1
@@ -23530,16 +22985,12 @@ behandelt	1
 mereda	1
 maze	1
 reagrdless	1
-tendrá	1
 porno	1
 medium	1
 vivanews	1
 ralat	1
 eleito	1
 kesampaian	1
-année	1
-parabéns	1
-estão	1
 twitcam	1
 merecem	1
 dificil	1
@@ -23564,7 +23015,6 @@ dobber	1
 disguise	1
 deveriam	1
 correndo	1
-soluções	1
 povo	1
 erekat	1
 girs	1
@@ -23573,7 +23023,6 @@ tawes	1
 educational	1
 tcl	1
 hajvery	1
-química	1
 elogia	1
 norma	1
 firmo	1
@@ -23585,7 +23034,6 @@ borges	1
 vivo	1
 meta	1
 sueca	1
-detrás	1
 oreja	1
 suruh	1
 terima	1
@@ -23597,15 +23045,11 @@ suara	1
 aristotle	1
 opa	1
 muitoo	1
-física	1
 cordas	1
 castelo	1
 cartas	1
-especulações	1
 ler	1
-mengão	1
 amaziing	1
-filmará	1
 interpretado	1
 actriz	1
 healingsong	1
@@ -23623,8 +23067,6 @@ olodum	1
 realiza	1
 femadum	1
 ponto	1
-equilíbrio	1
-estará	1
 beneficente	1
 colar	1
 ingresso	1
@@ -23636,7 +23078,6 @@ globalwarming	1
 crazyfool	1
 doesstedmanexist	1
 cansada	1
-começa	1
 queria	1
 continuasse	1
 tati	1
@@ -23821,8 +23262,6 @@ forsale	1
 sqft	1
 neutron	1
 decorations	1
-passé	1
-récent	1
 ilovesleeping	1
 vers	1
 freston	1
@@ -23885,7 +23324,6 @@ drool	1
 morehalfnakedpixplz	1
 orientation	1
 rightwards	1
-episode_jan	1
 quinny	1
 assisti	1
 s3ep11	1
@@ -23934,8 +23372,6 @@ blackface	1
 deceive	1
 chronic	1
 oprahssecrets	1
-oprah_world	1
-oprah_w	1
 isle	1
 lesbos	1
 octomom	1
@@ -24102,7 +23538,6 @@ ampleforth	1
 byzantine	1
 slavonic	1
 methinks	1
-chiamerà	1
 omgmaperdavvero	1
 visualkei	1
 vkei	1
@@ -24197,7 +23632,6 @@ printeron	1
 enables	1
 hesta	1
 prynn	1
-beatportリリースしました	1
 3dtv	1
 envy	1
 bahagia	1
@@ -24207,7 +23641,6 @@ nonpartisan	1
 incongruity	1
 mundane	1
 courting	1
-social_media	1
 suresh	1
 babu	1
 smsindia	1
@@ -24248,8 +23681,6 @@ gacko	1
 februara	1
 policija	1
 trebinja	1
-sačinila	1
-izvještaje	1
 protiv	1
 dva	1
 radn	1
@@ -24269,9 +23700,6 @@ nsl	1
 aircraft	1
 flippers	1
 slater	1
-nezávislý	1
-kulturní	1
-magazín	1
 broman	1
 dreads	1
 100pts	1
@@ -24481,7 +23909,6 @@ nyee	1
 fashioned	1
 shooters	1
 fuggg	1
-the野党のアルバムに晴一ボーカルの曲も入ってる	1
 workings	1
 readwritecloud	1
 bandmate	1
@@ -24643,7 +24070,6 @@ gummer	1
 cougar	1
 amenta	1
 v01d	1
-the頭痛	1
 neely	1
 dolphins	1
 kolb	1
@@ -24657,7 +24083,6 @@ crl	1
 mth	1
 requestd	1
 schalke	1
-também	1
 contratou	1
 noruegues	1
 rbk	1
@@ -24683,7 +24108,6 @@ blunders	1
 nuances	1
 hoteliers	1
 worms	1
-lsc_release	1
 copies	1
 akb	1
 retailers	1
@@ -24709,14 +24133,10 @@ posso	1
 sonhar	1
 kiedis	1
 noite	1
-né	1
 poetic	1
 poem	1
-óia	1
-aí	1
 inada	1
 dodged	1
-the英語に出立	1
 hecht	1
 hurtin	1
 cinemark	1
@@ -24761,7 +24181,6 @@ cnz	1
 plotting	1
 busybusy	1
 saltillo	1
-expondrán	1
 trabajos	1
 rembrandt	1
 brughel	1
@@ -24785,7 +24204,6 @@ friars	1
 cavill	1
 doubledouble	1
 baely	1
-dadalicious__x	1
 realbasketball	1
 doyoubelieve	1
 ihop	1
@@ -24794,7 +24212,6 @@ owt	1
 ennen	1
 situa	1
 fockers	1
-theラブ人間	1
 suspense	1
 likah	1
 mans	1
@@ -24859,7 +24276,6 @@ karlsruhe	1
 ipodmax	1
 opdewc	1
 oda	1
-tayo_alayo	1
 sowee	1
 gurrl	1
 nightmares	1
@@ -24894,7 +24310,6 @@ celibate	1
 cutitout	1
 moviereviews	1
 uninstaller	1
-freeware_release	1
 weymouth	1
 todaymovie	1
 exerciiiiiiise	1
@@ -24916,7 +24331,6 @@ abdominal	1
 sayeth	1
 clerk	1
 mikael	1
-håfström	1
 czars	1
 bethel	1
 somers	1
@@ -24943,10 +24357,6 @@ pwnagetool	1
 fadedddd	1
 irritatingggg	1
 outtuhh	1
-wow的插件作者风格真是千奇百怪	1
-有的插件每个版本都叫release	1
-有的全是alpha	1
-release少得可怜	1
 relevance	1
 amidoinitritehttp	1
 rome	1
@@ -24956,9 +24366,7 @@ sustain	1
 aion	1
 epictoon	1
 baglio	1
-boss本人より拡散希望頂きました	1
 phase	1
-のyoutubeが完成	1
 prnytaan	1
 utarakan	1
 trsrat	1
@@ -25008,7 +24416,6 @@ alil	1
 craziness	1
 ashraf	1
 suwaylem	1
-news_web_tech	1
 kinects	1
 canal	1
 dimensions	1
@@ -25131,7 +24538,6 @@ popularity	1
 venusian	1
 thor	1
 stellan	1
-skarsgård	1
 idris	1
 elba	1
 russo	1
@@ -25287,7 +24693,6 @@ nuh	1
 cripple	1
 zeus	1
 tweaks	1
-equity_mortgage_release	1
 2stay	1
 exorist	1
 rns	1
@@ -25423,7 +24828,6 @@ fests	1
 iloilo	1
 tikoy	1
 bona	1
-selecció	1
 incapable	1
 shez	1
 pssshhhh	1
@@ -25442,7 +24846,6 @@ haduuw	1
 gada	1
 penyemangat	1
 enquete	1
-você	1
 acha	1
 spice	1
 apresentar	1
@@ -25531,9 +24934,6 @@ plox	1
 maches	1
 nadal	1
 remeber	1
-yıhoho	1
-başladım	1
-taş	1
 brp	1
 oray	1
 nembak	1
@@ -25611,7 +25011,6 @@ beede	1
 voorspelt	1
 wijn	1
 produceert	1
-australië	1
 stijging	1
 ss3malay	1
 siaul	1
@@ -25656,7 +25055,6 @@ pacino	1
 seeya	1
 michely	1
 andreas	1
-preißner	1
 philbin	1
 dread	1
 centr	1
@@ -25737,7 +25135,6 @@ jaw	1
 delena2011reunion	1
 omens	1
 symphony	1
-béla	1
 timeshare	1
 2morro	1
 aminyarabbalalaminnn	1
@@ -25773,7 +25170,6 @@ superare	1
 latinasneedpurpleglasses	1
 ksgop	1
 caucus	1
-vallée	1
 melodic	1
 similarities	1
 nay	1
@@ -25782,9 +25178,7 @@ kisser	1
 dissing	1
 pbp	1
 cade	1
-cá	1
 curtir	1
-dançar	1
 eletronic	1
 cheek	1
 blowdown	1
@@ -25805,7 +25199,6 @@ stadia	1
 facup	1
 payal	1
 renewal	1
-totc_new_story	1
 humphries	1
 moyse	1
 bobsled	1
@@ -25834,9 +25227,7 @@ gatorsfirst	1
 lockwood	1
 spolied	1
 triple	1
-reavivará	1
 senhor	1
-anéis	1
 saiba	1
 flog	1
 fentastic	1
@@ -25845,7 +25236,6 @@ twitt	1
 popin	1
 cardinals	1
 hmhm	1
-nächstes	1
 wenn	1
 kino	1
 gehe	1
@@ -25872,7 +25262,6 @@ tornano	1
 fino	1
 voce	1
 oggi	1
-realtà	1
 cultur	1
 flaming	1
 handicaps	1
@@ -25990,8 +25379,6 @@ announci	1
 chegue	1
 suposto	1
 rir	1
-suicidarão	1
-começo	1
 deflation	1
 ridicule	1
 fillon	1
@@ -26009,7 +25396,6 @@ faves	1
 symphonium	1
 reggie	1
 recuperate	1
-prevê	1
 companheiro	1
 chapa	1
 embora	1
@@ -26019,7 +25405,6 @@ rivais	1
 disputa	1
 disse	1
 retirer	1
-ingérence	1
 politique	1
 jhanedouze	1
 spendwisely	1
@@ -26027,10 +25412,7 @@ vamos	1
 ganar	1
 zedillo	1
 pues	1
-él	1
-salía	1
 pinos	1
-abrió	1
 nimodo	1
 remembers	1
 48k	1
@@ -26045,15 +25427,12 @@ tipp	1
 suchen	1
 ende	1
 sofort	1
-könnt	1
 euren	1
 kindheitsstar	1
 wohnzimmer	1
 holen	1
 presidentia	1
-insônia	1
 cama	1
-aliás	1
 gros	1
 sinon	1
 bayrou	1
@@ -26066,7 +25445,6 @@ passar	1
 fds	1
 sexta	1
 specialfriday	1
-sábado	1
 stunned	1
 councillor	1
 ballarat	1
@@ -26146,18 +25524,14 @@ fille	1
 ans	1
 disparue	1
 depuis	1
-près	1
 pornic	1
 dabbles	1
 racecar	1
 alc	1
-actualités	1
 mths	1
 fatura	1
 piazon	1
-negócio	1
 iria	1
-graça	1
 pharmaceuticals	1
 gymnast	1
 roofer	1
@@ -26211,7 +25585,6 @@ decathletes	1
 todaymillrose	1
 leggo	1
 llegamos	1
-acabará	1
 octubre	1
 juntenagua	1
 orangethorpe	1
@@ -26293,7 +25666,6 @@ zms	1
 wjtglobal	1
 catepillar	1
 gep	1
-tvmain_clip	1
 bucket	1
 lwf	1
 lwf12	1
@@ -26320,7 +25692,6 @@ zayandeh	1
 rud	1
 migratory	1
 fincher	1
-camarógrafo	1
 asistente	1
 entera	1
 babysitting	1
@@ -26378,7 +25749,6 @@ saperstein	1
 beingopen	1
 futuregov	1
 fencer	1
-roldán	1
 reksa	1
 ekuitas	1
 syariah	1
@@ -26437,7 +25807,6 @@ porpoises	1
 sealife	1
 lighting	1
 flame	1
-diário	1
 galope	1
 atletas	1
 participar	1
@@ -26670,7 +26039,6 @@ uks	1
 ltr	1
 sill	1
 vfl	1
-džeko	1
 sneijder	1
 misimovic	1
 schwe	1
@@ -26721,7 +26089,6 @@ islas	1
 ballestas	1
 galapagos	1
 moonrises	1
-almoço	1
 amigas	1
 banhado	1
 muita	1
@@ -26760,7 +26127,6 @@ prairie	1
 underdog	1
 neat	1
 swapsies	1
-what_will_you_swap	1
 posterous	1
 deck	1
 whoareyoubringingtoyouththisweek	1
@@ -26884,7 +26250,6 @@ battisti	1
 sempre	1
 reclamo	1
 vazia	1
-peço	1
 colocarem	1
 deram	1
 cheia	1
@@ -26965,7 +26330,6 @@ lawdy	1
 json	1
 nintendo3ds	1
 razon	1
-correría	1
 comprar	1
 imple	1
 rooney	1
@@ -27135,13 +26499,11 @@ html5	1
 webdesign	1
 yol	1
 twitteroff	1
-coño	1
 surfup	1
 beam	1
 noodle	1
 veer	1
 punishment	1
-café	1
 memes	1
 delaney	1
 evp	1
@@ -27169,10 +26531,8 @@ slimeposites	1
 strunk	1
 peanuts	1
 usage	1
-albumのリリース	1
 scent	1
 august	1
-詳しくはhttp	1
 mileena	1
 ebz	1
 descen	1
@@ -27468,7 +26828,6 @@ negativity	1
 benali	1
 freedoom	1
 unusual	1
-xを閉じたら	1
 config	1
 initialise	1
 null	1
@@ -27501,7 +26860,6 @@ kaffir	1
 rind	1
 cooking	1
 deasy	1
-unknownさんに送るのはとりあえずとら	1
 owning	1
 securitynya	1
 bey	1
@@ -27522,7 +26880,6 @@ justreadthispart	1
 subbed	1
 entity	1
 gallipoli	1
-meçhul	1
 asker	1
 gelibolu	1
 bsd	1
@@ -27572,7 +26929,6 @@ yose	1
 thatswhatiwant	1
 fribourg	1
 blogdog	1
-__ogarry555	1
 charts	1
 heals	1
 thennnnnnn	1
@@ -27586,11 +26942,9 @@ proposals	1
 performances	1
 winnipeg	1
 bigging	1
-alguém	1
 retir	1
 anunciaram	1
 nessa	1
-sério	1
 acreditei	1
 baaja	1
 baaraat	1
@@ -27612,8 +26966,6 @@ aaaaaaawwwwww	1
 foresight	1
 ripwhitestripes	1
 vinieron	1
-ahdgasjkdhalskkdlaskdañ	1
-cagué	1
 shdjas	1
 anunciam	1
 carreira	1
@@ -27622,7 +26974,6 @@ baladinha	1
 qm	1
 conhece	1
 breakuphatewords	1
-äntligen	1
 fini	1
 boneless	1
 levar	1
@@ -27639,7 +26990,6 @@ perdidos	1
 aos	1
 palcos	1
 novos	1
-álbuns	1
 carona	1
 oifmpoa	1
 tampico	1
@@ -27652,7 +27002,6 @@ autores	1
 hino	1
 assim	1
 ello	1
-habían	1
 milenio	1
 chorou	1
 belas	1
@@ -27691,7 +27040,6 @@ milone	1
 posible	1
 separen	1
 tomorrowwillbebetter	1
-intenté	1
 definitivamente	1
 reelevante	1
 quiescent	1
@@ -27712,15 +27060,12 @@ bbs	1
 cotl	1
 rankingjackwhite	1
 5m	1
-ótima	1
 temos	1
 stropes	1
-música	1
 joyce	1
 joyces	1
 irwin	1
 southernlove	1
-あーwhite	1
 obese	1
 brekend	1
 zometeen	1
@@ -27732,7 +27077,6 @@ excelente	1
 documental	1
 wakeup	1
 thehives	1
-nãão	1
 confessed	1
 direly	1
 gloves	1
@@ -27768,7 +27112,6 @@ pinko	1
 leftyism	1
 pattie	1
 blushes	1
-stripes解散か	1
 hayan	1
 kareem	1
 5yr	1
@@ -27808,7 +27151,6 @@ antenna	1
 pleated	1
 xl	1
 yardsellr	1
-anúncio	1
 collage	1
 caiu	1
 tray	1
@@ -27823,10 +27165,7 @@ dilemmagalore	1
 splittras	1
 alldeles	1
 nyss	1
-från	1
 kanske	1
-jätteoväntat	1
-får	1
 deus	1
 fias	1
 noooooo	1
@@ -27835,14 +27174,12 @@ newstaplescenterchant	1
 sadface	1
 hein	1
 deu	1
-já	1
 bota	1
 preto	1
 branco	1
 atividades	1
 apagaamanchete	1
 realized	1
-lösen	1
 conta	1
 delas	1
 adeus	1
@@ -27913,7 +27250,6 @@ splm	1
 deliberation	1
 tins	1
 gbagauners	1
-pokémon	1
 lente	1
 nightingale	1
 sep	1
@@ -28011,9 +27347,6 @@ halle	1
 berry	1
 nahla	1
 everyt	1
-誰もいないオフィスでthe	1
-stripesのdvdが流れている	1
-ってかあたしが流しているのですがw	1
 dwade	1
 plaid	1
 bedhead	1
@@ -28096,8 +27429,6 @@ venom	1
 couples	1
 omgthatsateen	1
 lv195	1
-スライムhに	1
-スライムhは	1
 porsche	1
 gt3	1
 visualise	1
@@ -28125,7 +27456,6 @@ spirt	1
 tunnels	1
 sadness	1
 hae	1
-洋楽m	1
 nicovideo	1
 sm13438095	1
 in1hour	1
@@ -28137,7 +27467,6 @@ garibay	1
 nosey	1
 gemstone	1
 liv	1
-xdestadísticas	1
 rudy	1
 coaches	1
 cope	1
@@ -28180,7 +27509,6 @@ huddy	1
 swirling	1
 chapped	1
 marlowe	1
-sotuâ	1
 dalmation	1
 cigar	1
 airstream	1
@@ -28221,7 +27549,6 @@ orissa	1
 discos	1
 antes	1
 morir	1
-pasó	1
 leanne	1
 4yrs	1
 mens	1
@@ -28250,7 +27577,6 @@ rayjspantiesare	1
 rekindled	1
 becauseimmixed	1
 pua	1
-legião	1
 urbana	1
 brandi	1
 carlile	1
@@ -28260,7 +27586,6 @@ rasism	1
 stipres	1
 lending	1
 stall	1
-gravação	1
 achei	1
 ruim	1
 trynna	1
@@ -28278,7 +27603,6 @@ randomfact	1
 fatigue	1
 swaggin	1
 chama	1
-idêntico	1
 everythinq	1
 horizontally	1
 sweaters	1
@@ -28378,7 +27702,6 @@ underworlds	1
 manutd	1
 meeti	1
 safdarjaved	1
-oh_my_shit	1
 stanhope	1
 telly	1
 candlelight	1
@@ -28408,7 +27731,6 @@ drpd	1
 ngurusin	1
 begituan	1
 enjoyment	1
-fax待ちで帰れない	1
 giffords	1
 nq	1
 latte	1
@@ -28437,7 +27759,6 @@ romeo	1
 kerjaan	1
 hampir	1
 selesai	1
-tiba²	1
 lampu	1
 pertanda	1
 ngerjain	1
@@ -28544,7 +27865,6 @@ weddinghttp	1
 striptease	1
 amateur	1
 erotic	1
-şte	1
 maltepe	1
 bosch	1
 servi	1
@@ -28577,7 +27897,6 @@ roomie	1
 againts	1
 youd	1
 ecstacy	1
-spadeのマシュマロ	1
 mampus	1
 sevel	1
 deew	1
@@ -28610,7 +27929,6 @@ smn	1
 doog	1
 mie	1
 olloh	1
-faxするようにと上司から言われた書類に目を通すと	1
 adder	1
 cabot	1
 samplesaint	1
@@ -28619,7 +27937,6 @@ tbc	1
 canasked	1
 katuuu	1
 katu	1
-faxがこわれた	1
 raunchy	1
 ashleigh	1
 rainbird	1
@@ -28653,7 +27970,6 @@ twitternya	1
 detikcom	1
 cpwd	1
 tableau	1
-black_eyed_peas	1
 variables	1
 rayonier	1
 nyse	1
@@ -28689,7 +28005,6 @@ hhahayyy	1
 pentolan	1
 direktur	1
 teasing	1
-máquinas	1
 voladoras	1
 pesadas	1
 aire	1
@@ -28699,8 +28014,6 @@ kelvin	1
 forehead	1
 compatible	1
 5100cn	1
-boxで思い出したけど	1
-来月からプリンターのカウンターをどちらかがfaxせねばーとだけ	1
 bracketbusters	1
 ghiardelli	1
 twitterland	1
@@ -28739,14 +28052,11 @@ purchases	1
 underwater	1
 tasting	1
 tomorrows	1
-fax受付しかfc割引がきかない	1
-fax受付だと代引のみってのが不便	1
 nevermind	1
 sd	1
 pda	1
 apocalipsis	1
 backstrom	1
-同業の支配人さんから今後の業界展望レポート的なfaxをいただいた	1
 shorts	1
 blazer	1
 couture	1
@@ -28773,7 +28083,6 @@ equifax	1
 parkroyal	1
 darling	1
 parham	1
-_save	1
 superstars	1
 manney	1
 welsh	1
@@ -28792,7 +28101,6 @@ singlesworld	1
 attends	1
 entertainmen	1
 llap	1
-río	1
 personaje	1
 s01e13	1
 seasoned	1
@@ -28810,8 +28118,6 @@ tarek	1
 saab	1
 pitado	1
 estruendosamente	1
-público	1
-asistió	1
 corsage	1
 tux	1
 corrupting	1
@@ -28822,10 +28128,8 @@ rum	1
 deposed	1
 austdayfacts	1
 avis	1
-créateur	1
 officiel	1
 followfoufoune	1
-césar	1
 textbook	1
 reflectionsonthedance	1
 engagements	1
@@ -28834,13 +28138,10 @@ frigging	1
 finales	1
 prequels	1
 armani	1
-privé	1
 storybook	1
 pessimism	1
 weakness	1
 cocoa	1
-société	1
-générale	1
 donnent	1
 leurs	1
 conseillers	1
@@ -28895,7 +28196,6 @@ printers	1
 novascotia	1
 eriksen	1
 seatbelt	1
-brontë	1
 swoons	1
 nugget	1
 nectar	1
@@ -28906,12 +28206,10 @@ udrunning	1
 gladstone	1
 steroids	1
 satan	1
-citébeur	1
 nubius	1
 russel	1
 marl	1
 saveeeeeeeeeeeeeeee	1
-morí	1
 yangutu	1
 vollyball	1
 examination	1
@@ -28934,10 +28232,8 @@ cito	1
 testigos	1
 yukpas	1
 trujillo	1
-bloqué	1
 aux	1
 appels	1
-soulèvement	1
 contre	1
 vcu	1
 homecoming	1
@@ -29023,11 +28319,8 @@ lehigh	1
 moravian	1
 bethlehem	1
 encuesta	1
-electrodomésticos	1
 viven	1
 adquirido	1
-algúno	1
-últimos	1
 espera	1
 convidado	1
 casamento	1
@@ -29037,7 +28330,6 @@ prizelist	1
 covertible	1
 nextwork	1
 namensvetterin	1
-zukünftigen	1
 prinzessin	1
 falsch	1
 zusjes	1
@@ -29056,7 +28348,6 @@ homestay	1
 heureusement	1
 twingo	1
 voiture	1
-volée	1
 ul	1
 ips	1
 bebantuan	1
@@ -29069,9 +28360,7 @@ casiraghi	1
 parten	1
 risa	1
 desfile	1
-lencería	1
 etam	1
-haría	1
 tanta	1
 sauer	1
 krankenpflegerin	1
@@ -29137,7 +28426,6 @@ sevilla	1
 cigarettes	1
 nunca	1
 julgue	1
-anão	1
 julgado	1
 concorda	1
 kkkkkkkkkkkkkkkkkkksim	1
@@ -29160,9 +28448,6 @@ bloxidge	1
 tallygraph	1
 ashely	1
 bloqueado	1
-新聞掲載を受けてtel	1
-faxくださる方は	1
-７０代の方が多いので①手順を分かり易く書いたもの②参加申込書をfax	1
 rennie	1
 dyball	1
 sape	1
@@ -29239,7 +28524,6 @@ ruggedly	1
 beckett	1
 knockdown	1
 dateby	1
-molly_sky	1
 bunton	1
 bunda	1
 abang	1
@@ -29273,10 +28557,7 @@ demikian	1
 kloof	1
 nicol	1
 lister	1
-faxﾖｳｲﾝｸﾘﾎﾞﾝをfaxｳｲﾝｸﾘﾎﾞﾝに空目したあと	1
-fax用リンクイボン	1
 kad	1
-kažem	1
 dobro	1
 udala	1
 mislim	1
@@ -29329,7 +28610,6 @@ insyaallah	1
 minggu	1
 kelaar	1
 horeeeyyy	1
-シーザーfaxスターズは荒々しい姿を取り戻し仁川の歪みを駆逐しにこられるのか	1
 scavenger	1
 foreal	1
 frugalfashionistas	1
@@ -29367,14 +28647,12 @@ dentist	1
 hells	1
 remorse	1
 abandoning	1
-william_parry	1
 divx	1
 parry	1
 watc	1
 muff	1
 tramon	1
 huakai	1
-hawaï	1
 earring	1
 range	1
 thinning	1
@@ -29392,8 +28670,6 @@ clay	1
 autoblog	1
 barrage	1
 energ	1
-念のためfaxを送ってもらえますか	1
-後日fax本体が届きました	1
 seeker	1
 frame	1
 ging	1
@@ -29405,12 +28681,8 @@ azb	1
 nyed	1
 unforgetable	1
 remembering	1
-グリーンfaxでペーパーレス化のエコ	1
 blogjp	1
 ameblo	1
-fax買ってから一ヶ月くらい経つけど	1
-ラストコンティニューby有野課長	1
-fax係	1
 armstrong	1
 shack	1
 abiss	1
@@ -29443,7 +28715,6 @@ politica	1
 significance	1
 inaugural	1
 320dl	1
-普通紙fax	1
 dub	1
 76ers	1
 iguodala	1
@@ -29478,7 +28749,6 @@ zap	1
 ambulight	1
 photodynamic	1
 thera	1
-habitación	1
 scantily	1
 clad	1
 iknewistillhadit	1
@@ -29570,8 +28840,6 @@ moonheart	1
 trumpet	1
 guvnors	1
 decimated	1
-preparação	1
-cabeção	1
 cenas	1
 therr	1
 cty	1
@@ -29596,7 +28864,6 @@ fnc	1
 chunchi	1
 commision	1
 yute	1
-_ghosters_	1
 vetvoice	1
 backpedals	1
 realclearpolitics	1

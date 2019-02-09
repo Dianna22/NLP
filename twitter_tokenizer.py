@@ -110,9 +110,9 @@ def stats(tokens):
 ##########################
 
 def check_if_word(w_string):
-	word = re.match("#?\w*[a-zA-Z]\w*", w_string) 
+	word = re.match("#?[a-zA-Z0-9]*[a-zA-Z][a-zA-Z0-9]*", w_string) 
 	if word and word.group(0) == w_string:
-		return word.group(0).replace("#","")
+		return word.group(0).replace("#", "")
 	return None 
 
 
@@ -126,17 +126,7 @@ def extract_words(tokens):
 	return words
 
 
-
-def main():
-	load = input("Load cached tokens: ")
-	if load == "y":
-		tokens = _load_token_object()
-	else:
-		tokens = nltk_tok()
-
-	stats(tokens)
-	words = extract_words(tokens)
-
+def count_english_correct_words(words):
 	from nltk.corpus import wordnet as wn
 	counter = 0
 	wrong_words = []
@@ -144,11 +134,25 @@ def main():
 		if wn.synsets(word):
 			counter += 1
 		else:
-			wrong_words += word
+			wrong_words += [word]
+	assert counter + len(wrong_words) == len(words)
+	return (counter, wrong_words)
 
+
+def main():
+	load = input("Rerun tokenizer: ")
+	if load == "n":
+		tokens = _load_token_object()
+	else:
+		tokens = nltk_tok()
+
+	stats(tokens)
+	words = extract_words(tokens)
+
+	# correct_no_words, wrong_words = count_english_correct_words(words)
 
 	print("e. Number of words: %s" % str(len(words)))
-	print("Number of recognised words: %s" % str(len(words)))
+	# print("Number of recognized words: %s" % str(correct_no_words))
 	print("Type/token ratio: %s" % str(len(set(words))/len(words)))
 
 

@@ -135,8 +135,8 @@ peace	356
 d. Number of tokens that appear only once: 34593
 
 
-e. Number of words: 247283 (all these words were found in the English lexical database Wordnet)
-Type/token ratio: 0.1200325133551437 
+e. Number of words: 246314
+Type/token ratio: 0.11752884529502992 
 
 the	7739
 to	5040
