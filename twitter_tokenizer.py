@@ -145,9 +145,31 @@ def _load_stopwords(file="data/list_of_Stopwords.txt"):
 	return stopwords
 
 
+stopwords = _load_stopwords()
 def eliminate_stopwords(words):
-	stopwords = _load_stopwords()
+	global stopwords
 	return [word for word in words if word not in stopwords]
+
+
+####################
+# g. pairs				 #
+####################
+
+def pairs_of_words(pairs_file="data/pairs_frequencies.txt"):
+	global stopwords
+	pairs = []
+	with io.open("data/microblog2011_tokenized.txt", "r", encoding="utf8") as f:
+		lines = f.readlines()
+		for msg in lines:
+			words = extract_words(msg.split())
+			for i in range(len(words)-1):
+				if words[i] not in stopwords and words[i+1] not in stopwords:
+					pairs.append("%s %s" % (words[i], words[i+1]))
+	with io.open(pairs_file, "w", encoding="utf8") as f:
+		count = Counter(pairs)
+		for pair in count.most_common():
+			f.write("%s\t%s\n" % (str(pair[0]), str(pair[1])))
+	return pairs
 
 
 def main():
@@ -172,6 +194,8 @@ def main():
 		count = Counter(words_no_stopwords)
 		for word in count.most_common():
 			f.write("%s\t%s\n" % (word[0], str(word[1])))
+	print("Type/toke ration no stopwords: %s" % str(len(set(words_no_stopwords))/len(words_no_stopwords)))
+	pairs_of_words()
 
 if __name__=="__main__":
 	main()
