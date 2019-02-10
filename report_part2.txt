@@ -1,0 +1,96 @@
+a) We have used the CMU Twitter POS tagger in order to extract the part-of-speech of the tokens. To do so, there were some steps to take, which are explained in the following:
+1. First, the tagset style was not exactly the same as the Penn TreeBank style and the problem was that the tagger used its own style. As a result, we had to use other models for the POS tagger that matched the output format of the tags as the PTB style. In order to do that, we have employed two of the already existing models in their website, called model.ritter_ptb_alldata_fixed.20130723 and model.irc.20121211, to train the POS tagger. The reason why we have used two models is to improve the accuracy.
+2. Second,the output format of the file needed to be changed so that we could do the comparison. Regarding the format change, we programmed in Java to get the favorite output format, which has been attached.
+3. The complete output of the tagger has been submitted as POS_results.txt    
+
+The first twenty sentences are tagged as follows:
+DREAM_NN 
+Too_RB much_JJ hw_NN 
+high_JJ school_NN is_VBZ weird_JJ 
+I_PRP feel_VBP .._: Blah_UH ._. 
+I_PRP Love_VBP One_CD Direction_NNP 
+Can_MD I_PRP make_VBP a_DT pie_NN with_IN potatoes_NNS ?_. 
+After_IN so_RB many_JJ days_NNS of_IN just_RB trying_VBG ,_, finally_RB made_VBD it_PRP of_IN bed_NN for_IN a_DT run_NN at_IN 6_CD ._. Hah_UH 
+I_PRP ca_MD n't_RB express_VB how_WRB I_PRP feel_VBP in_IN a_DT text_NN !_. 
+Finally_RB 
+@smosh_USR awesome_JJ about_IN food_NN battle_NN 2012_CD 
+I_PRP should_MD probably_RB finish_VB my_PRP$ homework_NN 
+I_PRP 'm_VBP so_RB sleepy_JJ right_RB now_RB !_. !_. #earlybedtime_HT 
+Life_NN 's_POS most_RBS important_JJ promises_NNS might_MD never_RB be_VB spoken_VBN ._. 
+@JCSweetGirl_USR Hi_UH !_. 
+@nessamaders_USR aaaawn_UH *-*_UH 
+@djherrold_USR just_RB ask_VB if_IN you_PRP can_MD get_VB a_DT picture_NN with_IN him_PRP ._. I_PRP 'm_VBP sure_JJ it_PRP 'll_MD make_VB his_PRP$ day_NN ._. 
+Me_PRP beating_VBG this_DT trend_NN bad_JJ tonight_NN #ThugLife_HT 
+@ALAXASS_USR #idontevenknowyournamebro_HT 
+The_DT fact_NN that_IN @Brittney_9_USR and_CC @brynnmariecee_USR gain_VB up_RP on_IN me_PRP in_IN child_NN development_NN <<<#realjerks_NN 
+Dreaming_VBG about_IN you_PRP ._.
+
+b) In order to calculate the accuracy, we have programmed in java and calculate the accuracy as the number of the correctly tagged tokens divided by the total number of tokens in the corpus. The accuracy is 95.02%. In the following, we have shown some incorrect tags for some random sentences:
+
+results:Remember_VB money_NN cant_MD buy_VB us_PRP true_JJ happiness_NN 
+expected:Remember_VB money_NN cant_MD buy_VB us_PRP true_JJ happiness_NNS
+
+results:Olifs_NNS RT_RT @TheDakari_USR :_: #PussyTasteLike_HT Vanilla_NNP ,_, tasty_JJ hoe_NN ._. 
+expected:Olifs_NNP RT_RT @TheDakari_USR :_: #PussyTasteLike_HT Vanilla_NN ,_, tasty_JJ hoe_NN ._.
+
+results:#IFOLLOWBACK_HT :_: )_-RRB- 
+expected:#IFOLLOWBACK_HT :_. )_)
+
+results:RT_RT @_mpeterrrs_USR :_: It_PRP hurts_VBZ to_TO know_VB you_PRP like_IN someone_NN else_RB ._. 
+expected:RT_RT @_mpeterrrs_USR :_: It_PRP hurts_VBZ to_TO know_VB you_PRP like_VBP someone_NN else_RB ._.
+
+results:@aleonard4_USR I_PRP miss_VBP this💔_DT 
+expected:@aleonard4_USR I_PRP miss_VBP this💔_PRP
+
+results:#WaysToGetShot_HT mess_NN or_CC flirt_VBP with_IN MY_PRP$ boyfriend_NN @cornhole696_USR 😘😉_UH 
+expected:#WaysToGetShot_HT mess_NN or_CC flirt_VBN with_IN MY_PRP$ boyfriend_NN @cornhole696_USR 😘😉_UH
+
+results:Haha_UH going_VBG to_TO the_DT store_NN real_JJ quick_JJ #lilbro_HT #smashin_HT http://t.co/N1Rheg1S_URL 
+expected:Haha_UH going_VBG to_TO the_DT store_NN real_RB quick_JJ #lilbro_HT #smashin_HT http://t.co/N1Rheg1S_URL
+
+The obtained results show that first, POS tagger has more difficulty finding the correct format of the verbs and nouns in the context of the sentences. Second, it has difficulty finding the correct tag for some words having more than one part-of-speech such as like or real. It should be noted that for two of the tags such as Close parenthesis and Open parenthesis, the POS tagger used the style (-RRB- and -LRB-). However, these tokens are tagged differently in the expected_output file. As a result, although the tagging is correct, i.e. the tagger finds them open and close parenthesis, we consider these tags incorrect since the notation is different in comparison with the expected ones.      
+
+c) The frequency of each POS tag in the corpus is as follows:
+
+NN    9910
+RB    5101
+JJ    3668
+VBZ    1812
+PRP    9340
+VBP    4711
+:    4049
+UH    3145
+.    6817
+CD    716
+NNP    3090
+MD    1303
+DT    4758
+IN    5768
+NNS    2485
+VBG    1853
+,    1381
+VBD    1809
+VB    4701
+WRB    753
+USR    6271
+PRP$    1879
+HT    2480
+POS    131
+RBS    6
+VBN    491
+CC    1361
+RP    436
+WP    551
+TO    1786
+URL    1094
+RT    2415
+JJS    233
+-RRB-    161
+''    460
+-LRB-    66
+RBR    62
+EX    18
+JJR    114
+WDT    6
+
+
