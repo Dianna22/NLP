@@ -8,6 +8,8 @@ Python files (extension _.py_) are run with Python 3.6.3: _python <file_name>.py
 ##### Code
 * twitter_tokenizer.py (a.-g.)
 * mwe.py (h.)
-##### Data and output files
-* 
+##### Data and results files
+* microblog2011_tokenized.txt - tokenized corpus
+* tokens.txt - list of all tokens and their frequencies
+##### External resources
 ### Part 2
