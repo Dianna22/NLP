@@ -5,13 +5,18 @@
 ### Part 1 - Diana Lucaci
 #### Files
 Python files (extension _.py_) are run with Python 3.6.3: _python <file_name>.py_.
-##### Code
+##### Code files
 * twitter_tokenizer.py (a.-g.)
 * mwe.py (h.)
 ##### Data and results files
 * microblog2011_tokenized.txt - tokenized corpus
-* tokens.txt - list of all tokens and their frequencies
+* tokens.txt - list of all tokens and their frequencies  
+Aditional files:  
+* data/cleaned_twitter_training_corpus.txt - corpus merged from 2 sources (SemEval task 2013 and [Kaggle dataset](https://www.kaggle.com/thoughtvector/customer-support-on-twitter#twcs.zip) of customer support twitter data) used for training the model for the multiword expression acquisition
 ##### External resources
+Python libraries:  
+* nltk
+* gensim.models.phrases
 ### Part 2 - Mozhgan Nasr Azadani
 #### Files
 Java files can be added as an projects in a favourite java IDE. No external library is needed. Moreover, On mac systems, they can be run directly as ./<file_name>.java in the correct directory using terminal. 
