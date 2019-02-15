@@ -14,7 +14,7 @@ Python files (extension _.py_) are run with Python 3.6.3: _python <file_name>.py
 ##### External resources
 ### Part 2 - Mozhgan Nasr Azadani
 #### Files
-Java files can be added as an projects in a favourite java IDE. No external library is needed. Moreover, On mac systems, they can be run directory as ./<file_name>.java in the correct using terminal. 
+Java files can be added as an projects in a favourite java IDE. No external library is needed. Moreover, On mac systems, they can be run directly as ./<file_name>.java in the correct directory using terminal. 
 ##### Code files
 * format-change.java (a.)
 * accurracy.zip (b.)
