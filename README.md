@@ -17,7 +17,7 @@ Aditional files:
 * data/list_of_contractions.txt - list of contracted words for which nltk's tokenizer splits the words, unlike the twitter tokenizer
 ##### External resources
 Python libraries:  
-* nltk
+* nltk - tokenizer and wordnet
 * gensim.models.phrases
 ### Part 2 - Mozhgan Nasr Azadani
 #### Files
