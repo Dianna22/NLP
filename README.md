@@ -1,8 +1,9 @@
 # NLP - description of the assignments and projects in reverse chronological order
 ## Project
-## Assignment 2
-## Assignment 1
-### REPORT - [LINK](https://docs.google.com/document/d/18pFDDHKXVCzbM22J5qirgS-TxZdazvMgooEnxDkiG50/edit?usp=sharing)
+#### [Paper](https://www.overleaf.com/read/vbrhrqtwtzgp)
+## [Assignment 2](http://www.site.uottawa.ca/~diana/csi5386/A2_2019/A2_2019.htm)
+## [Assignment 1](http://www.site.uottawa.ca/~diana/csi5386/A1_2018/A1_2018.htm)
+#### [REPORT](https://docs.google.com/document/d/18pFDDHKXVCzbM22J5qirgS-TxZdazvMgooEnxDkiG50/edit?usp=sharing)
 #### Documentation
 #### Part 1 - Diana Lucaci
 ##### Files
