@@ -2,9 +2,9 @@ A1/data/cleaned_twitter_training_corpus.txt
 Project/data/*
 
 # Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+*/__pycache__/
+*/*.py[cod]
+*/*$py.class
 
 # C extensions
 *.so
