@@ -1,0 +1,191 @@
+backend: tensorflow
+class_name: Model
+config:
+  input_layers:
+  - [main_input, 0, 0]
+  layers:
+  - class_name: InputLayer
+    config:
+      batch_input_shape: !!python/tuple [null, 64]
+      dtype: int32
+      name: main_input
+      sparse: false
+    inbound_nodes: []
+    name: main_input
+  - class_name: Embedding
+    config:
+      activity_regularizer: null
+      batch_input_shape: !!python/tuple [null, 64]
+      dtype: float32
+      embeddings_constraint: null
+      embeddings_initializer:
+        class_name: RandomUniform
+        config: {maxval: 0.05, minval: -0.05, seed: null}
+      embeddings_regularizer: null
+      input_dim: 2327
+      input_length: 64
+      mask_zero: false
+      name: x
+      output_dim: 75
+      trainable: true
+    inbound_nodes:
+    - - - main_input
+        - 0
+        - 0
+        - {}
+    name: x
+  - class_name: Dropout
+    config: {name: dropout, rate: 0.5, trainable: true}
+    inbound_nodes:
+    - - - x
+        - 0
+        - 0
+        - {}
+    name: dropout
+  - class_name: LSTM
+    config:
+      activation: tanh
+      activity_regularizer: null
+      bias_constraint: null
+      bias_initializer:
+        class_name: Zeros
+        config: {}
+      bias_regularizer: null
+      dropout: 0.0
+      go_backwards: false
+      implementation: 0
+      kernel_constraint: null
+      kernel_initializer:
+        class_name: VarianceScaling
+        config: {distribution: uniform, mode: fan_avg, scale: 1.0, seed: null}
+      kernel_regularizer: null
+      name: lstm_fwd
+      recurrent_activation: hard_sigmoid
+      recurrent_constraint: null
+      recurrent_dropout: 0.0
+      recurrent_initializer:
+        class_name: Orthogonal
+        config: {gain: 1.0, seed: null}
+      recurrent_regularizer: null
+      return_sequences: true
+      return_state: false
+      stateful: false
+      trainable: true
+      unit_forget_bias: true
+      units: 200
+      unroll: false
+      use_bias: true
+    inbound_nodes:
+    - - - dropout
+        - 0
+        - 0
+        - {}
+    name: lstm_fwd
+  - class_name: LSTM
+    config:
+      activation: tanh
+      activity_regularizer: null
+      bias_constraint: null
+      bias_initializer:
+        class_name: Zeros
+        config: {}
+      bias_regularizer: null
+      dropout: 0.0
+      go_backwards: true
+      implementation: 0
+      kernel_constraint: null
+      kernel_initializer:
+        class_name: VarianceScaling
+        config: {distribution: uniform, mode: fan_avg, scale: 1.0, seed: null}
+      kernel_regularizer: null
+      name: lstm_bwd
+      recurrent_activation: hard_sigmoid
+      recurrent_constraint: null
+      recurrent_dropout: 0.0
+      recurrent_initializer:
+        class_name: Orthogonal
+        config: {gain: 1.0, seed: null}
+      recurrent_regularizer: null
+      return_sequences: true
+      return_state: false
+      stateful: false
+      trainable: true
+      unit_forget_bias: true
+      units: 200
+      unroll: false
+      use_bias: true
+    inbound_nodes:
+    - - - dropout
+        - 0
+        - 0
+        - {}
+    name: lstm_bwd
+  - class_name: Merge
+    config:
+      arguments: {}
+      concat_axis: -1
+      dot_axes: -1
+      mode: concat
+      mode_type: raw
+      name: bilstm
+      output_mask: null
+      output_mask_type: raw
+      output_shape: null
+      output_shape_type: raw
+    inbound_nodes:
+    - - - lstm_fwd
+        - 0
+        - 0
+        - &id001
+          mask: [null, null]
+      - - lstm_bwd
+        - 0
+        - 0
+        - *id001
+    name: bilstm
+  - class_name: Dropout
+    config: {name: d_bilstm, rate: 0.2, trainable: true}
+    inbound_nodes:
+    - - - bilstm
+        - 0
+        - 0
+        - {}
+    name: d_bilstm
+  - class_name: Flatten
+    config: {name: flat_h_star, trainable: true}
+    inbound_nodes:
+    - - - d_bilstm
+        - 0
+        - 0
+        - {}
+    name: flat_h_star
+  - class_name: Dense
+    config:
+      activation: softmax
+      activity_regularizer: null
+      bias_constraint: null
+      bias_initializer:
+        class_name: Zeros
+        config: {}
+      bias_regularizer: null
+      kernel_constraint: null
+      kernel_initializer:
+        class_name: VarianceScaling
+        config: {distribution: uniform, mode: fan_avg, scale: 1.0, seed: null}
+      kernel_regularizer:
+        class_name: L1L2
+        config: {l1: 0.0, l2: 0.05000000074505806}
+      name: dense_72
+      trainable: true
+      units: 3
+      use_bias: true
+    inbound_nodes:
+    - - - flat_h_star
+        - 0
+        - 0
+        - {}
+    name: dense_72
+  name: model_35
+  output_layers:
+  - [dense_72, 0, 0]
+keras_version: 2.0.8

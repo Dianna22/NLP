@@ -1,0 +1,1 @@
+{'lstm_units': 200, 'xmaxlen': 32, 'ymaxlen': 32, 'emb': 75, 'max_features': 2327, 'batch_size': 32, 'lr': 0.005, 'epochs': 10}
