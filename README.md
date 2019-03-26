@@ -8,6 +8,7 @@
 #### [Project proposal](https://docs.google.com/document/d/1W_B9nWewimRRqxOsYwpj_8LdMqTV0jieH9v25srog-s/edit?usp=sharing)
 
 ## [Assignment 2](http://www.site.uottawa.ca/~diana/csi5386/A2_2019/A2_2019.htm)
+#### [Conducted experiments](https://docs.google.com/document/d/1IS4sygSWIEHFvzKDGD4ciBL4qJP5-ssrInDVY_WpcUw/edit?usp=sharing)
 ## [Assignment 1](http://www.site.uottawa.ca/~diana/csi5386/A1_2018/A1_2018.htm)
 #### [REPORT](https://docs.google.com/document/d/18pFDDHKXVCzbM22J5qirgS-TxZdazvMgooEnxDkiG50/edit?usp=sharing)
 #### Documentation
