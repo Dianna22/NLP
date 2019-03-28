@@ -1,6 +1,7 @@
 A2/data/*
 A1/data/*cleaned_twitter_training_corpus.txt
 Project/data/*
+Project/models/*
 
 # Byte-compiled / optimized / DLL files
 */__pycache__/
