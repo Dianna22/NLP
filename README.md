@@ -2,7 +2,7 @@
 ## Project
 ### [Project report](https://www.overleaf.com/read/vbrhrqtwtzgp)
 ### [Project proposal](https://docs.google.com/document/d/1W_B9nWewimRRqxOsYwpj_8LdMqTV0jieH9v25srog-s/edit?usp=sharing)
-### [Outline](https://docs.google.com/document/d/1qElk-j3W9u_FA2SbUZ4Ffjc9RLeJXBh6uTNgeCt2bJk/edit?usp=sharing)
+* [Outline](https://docs.google.com/document/d/1qElk-j3W9u_FA2SbUZ4Ffjc9RLeJXBh6uTNgeCt2bJk/edit?usp=sharing)
 ### Documentation
 #### Project structure
 Root directory: Project/Emocontext
