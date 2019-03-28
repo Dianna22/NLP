@@ -14,6 +14,7 @@ Project/Emocontext/[Ss]cripts
 Project/Emocontext/pyvenv.cfg
 Project/Emocontext/.venv
 Project/Emocontext/pip-selfcheck.json
+Project/Emocontext/tcl/*
 
 # Byte-compiled / optimized / DLL files
 */__pycache__/
