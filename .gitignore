@@ -1,7 +1,19 @@
 A2/data/*
 A1/data/*cleaned_twitter_training_corpus.txt
-Project/data/*
-Project/models/*
+Project/Emocontext/data/*
+Project/Emocontext/models/*
+# virtualenv project
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+Project/Emocontext/.Python
+Project/Emocontext/[Bb]in
+Project/Emocontext/[Ii]nclude
+Project/Emocontext/[Ll]ib
+Project/Emocontext/[Ll]ib64
+Project/Emocontext/[Ll]ocal
+Project/Emocontext/[Ss]cripts
+Project/Emocontext/pyvenv.cfg
+Project/Emocontext/.venv
+Project/Emocontext/pip-selfcheck.json
 
 # Byte-compiled / optimized / DLL files
 */__pycache__/
