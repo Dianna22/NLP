@@ -1,5 +1,6 @@
 # NLP - description of the assignments and projects in reverse chronological order
 ## Project
+### [Project outline presentation](https://www.overleaf.com/2855726451kpvcrdxsgmgf)
 ### [Project report](https://www.overleaf.com/read/vbrhrqtwtzgp)
 ### [Project proposal](https://docs.google.com/document/d/1W_B9nWewimRRqxOsYwpj_8LdMqTV0jieH9v25srog-s/edit?usp=sharing)
 * [Outline](https://docs.google.com/document/d/1qElk-j3W9u_FA2SbUZ4Ffjc9RLeJXBh6uTNgeCt2bJk/edit?usp=sharing)
