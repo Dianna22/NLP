@@ -1,0 +1,28 @@
+SVM nolowercase no stemming no frequency emoticon replaced model on train
+---------
+Correctly Classified Instances       17573               88.4755 %
+Incorrectly Classified Instances      2289               11.5245 %
+Kappa statistic                          0.8304
+Mean absolute error                      0.2608
+Root mean squared error                  0.3277
+Relative absolute error                 76.1658 %
+Root relative squared error             79.2013 %
+Total Number of Instances            19862     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.914    0.110    0.881      0.914    0.897      0.803    0.911     0.855     others
+                 0.874    0.019    0.913      0.874    0.893      0.869    0.970     0.858     angry
+                 0.877    0.023    0.892      0.877    0.885      0.860    0.969     0.840     sad
+                 0.821    0.027    0.857      0.821    0.839      0.808    0.959     0.777     happy
+Weighted Avg.    0.885    0.064    0.885      0.885    0.885      0.826    0.940     0.840     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 8538  198  228  379 |    a = others
+  334 3282  110   28 |    b = angry
+  303   92 3087   37 |    c = sad
+  521   23   36 2666 |    d = happy
+-----------
