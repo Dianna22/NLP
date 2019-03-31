@@ -1,3 +1,5 @@
+ON train
+------------------------
 SVM nolowercase no stemming no frequency emoticon replaced 
 
 Correctly Classified Instances       17573               88.4755 %
@@ -83,6 +85,34 @@ Weighted Avg.    0.858    0.082    0.859      0.858    0.857      0.786    0.923
   638   35   39 2534 |    d = happy
 ----------------------------
 Random forest ---> crashed!!!!
+-------------------------------
+Random tree stemmer lower case Ngram (1-3) emotican replaced
+
+Correctly Classified Instances       19790               99.6375 %
+Incorrectly Classified Instances        72                0.3625 %
+Kappa statistic                          0.9947
+Mean absolute error                      0.0018
+Root mean squared error                  0.0302
+Relative absolute error                  0.5342 %
+Root relative squared error              7.3087 %
+Total Number of Instances            19862     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.006    0.993      1.000    0.997      0.993    1.000     1.000     others
+                 0.996    0.000    0.998      0.996    0.997      0.997    1.000     1.000     angry
+                 0.992    0.000    1.000      0.992    0.996      0.995    1.000     1.000     sad
+                 0.991    0.000    1.000      0.991    0.996      0.995    1.000     1.000     happy
+Weighted Avg.    0.996    0.003    0.996      0.996    0.996      0.995    1.000     1.000     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 9342    0    1    0 |    a = others
+   14 3740    0    0 |    b = angry
+   22    7 3490    0 |    c = sad
+   28    0    0 3218 |    d = happy
 -------------------------------
 SVM Ngram (1-3) lowercase stemmer no frequency emotican replaced
 
