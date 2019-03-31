@@ -1,5 +1,5 @@
-SVM nolowercase no stemming no frequency emoticon replaced model on train
----------
+SVM nolowercase no stemming no frequency emoticon replaced 
+
 Correctly Classified Instances       17573               88.4755 %
 Incorrectly Classified Instances      2289               11.5245 %
 Kappa statistic                          0.8304
@@ -26,3 +26,157 @@ Weighted Avg.    0.885    0.064    0.885      0.885    0.885      0.826    0.940
   303   92 3087   37 |    c = sad
   521   23   36 2666 |    d = happy
 -----------
+Naive bayes lowercase stemming no frequency emotican replaced
+
+Correctly Classified Instances       13675               68.8501 %
+Incorrectly Classified Instances      6187               31.1499 %
+Kappa statistic                          0.5355
+Mean absolute error                      0.2087
+Root mean squared error                  0.3353
+Relative absolute error                 60.9414 %
+Root relative squared error             81.0222 %
+Total Number of Instances            19862     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.779    0.289    0.705      0.779    0.740      0.489    0.823     0.797     others
+                 0.665    0.076    0.671      0.665    0.668      0.591    0.887     0.728     angry
+                 0.500    0.042    0.721      0.500    0.591      0.533    0.858     0.657     sad
+                 0.659    0.075    0.633      0.659    0.646      0.575    0.906     0.679     happy
+Weighted Avg.    0.689    0.170    0.690      0.689    0.685      0.530    0.855     0.740     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 7280  786  383  894 |    a = others
+  908 2496  192  158 |    b = angry
+ 1235  338 1760  186 |    c = sad
+  900  102  105 2139 |    d = happy
+----------------
+SVM lowercase stemming no frequency emotican replaced
+
+Correctly Classified Instances       17038               85.7819 %
+Incorrectly Classified Instances      2824               14.2181 %
+Kappa statistic                          0.7894
+Mean absolute error                      0.264 
+Root mean squared error                  0.3328
+Relative absolute error                 77.0822 %
+Root relative squared error             80.4318 %
+Total Number of Instances            19862     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.906    0.146    0.847      0.906    0.876      0.759    0.889     0.821     others
+                 0.845    0.021    0.902      0.845    0.873      0.845    0.959     0.833     angry
+                 0.814    0.028    0.864      0.814    0.838      0.805    0.942     0.770     sad
+                 0.781    0.030    0.835      0.781    0.807      0.772    0.959     0.760     happy
+Weighted Avg.    0.858    0.082    0.859      0.858    0.857      0.786    0.923     0.804     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 8468  205  285  385 |    a = others
+  414 3172  126   42 |    b = angry
+  479  104 2864   72 |    c = sad
+  638   35   39 2534 |    d = happy
+----------------------------
+Random forest ---> crashed!!!!
+-------------------------------
+SVM Ngram (1-3) lowercase stemmer no frequency emotican replaced
+
+Correctly Classified Instances       17257               86.8845 %
+Incorrectly Classified Instances      2605               13.1155 %
+Kappa statistic                          0.8039
+Mean absolute error                      0.2625
+Root mean squared error                  0.3307
+Relative absolute error                 76.6485 %
+Root relative squared error             79.913  %
+Total Number of Instances            19862     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.932    0.164    0.835      0.932    0.881      0.768    0.890     0.816     others
+                 0.856    0.016    0.925      0.856    0.889      0.865    0.971     0.869     angry
+                 0.799    0.016    0.914      0.799    0.853      0.826    0.953     0.809     sad
+                 0.778    0.021    0.876      0.778    0.824      0.794    0.956     0.776     happy
+Weighted Avg.    0.869    0.086    0.873      0.869    0.868      0.801    0.927     0.818     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 8707  164  176  296 |    a = others
+  452 3214   66   22 |    b = angry
+  592   77 2812   38 |    c = sad
+  677   21   24 2524 |    d = happy
+----------------------------
+
+CFS Subset Evaluator
+Including locally predictive attributes
+best atrributes:
+                     amazing
+                     annoying
+                     arent
+                     bad
+                     broke
+                     cell
+                     cool
+                     difference
+                     don't
+                     fuck
+                     funny
+                     haha
+                     happy
+                     happyemotican
+                     hate
+                     hell
+                     ipl
+                     it'll
+                     kiss
+                     local
+                     loved
+                     male
+                     nice
+                     plan
+                     points
+                     practice
+                     rude
+                     sad
+                     sademotican
+                     send
+                     sex
+                     stupid
+                     universe
+                     anger
+                     disappointed
+                     dumbass
+                     fuckin
+                     greedy
+                     hiding
+                     hurts
+                     irritating
+                     lame
+                     messaging
+                     pissing
+                     shut
+                     trash
+                     upset
+                     cheating
+                     depressing
+                     disheartened
+                     dumped
+                     excited
+                     guilty
+                     headache
+                     sadness
+                     sick
+                     suicide
+                     worried
+                     enjoying
+                     nic
+                     rofl
+                     woww
+                     yayyy
+------------------------------
