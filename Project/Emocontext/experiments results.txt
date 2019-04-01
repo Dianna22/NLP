@@ -298,3 +298,33 @@ Weighted Avg.    0.703    0.218    0.842      0.703    0.748      0.356    0.817
    43   31  171    5 |    c = sad
    92   11   10  171 |    d = happy
 -------------------------------
+SVM lowercase - term frequency -  no stemming -word tokenizer – no cleaning test
+
+=== Summary ===
+
+Correctly Classified Instances        4622               83.8991 %
+Incorrectly Classified Instances       887               16.1009 %
+Kappa statistic                          0.5142
+Mean absolute error                      0.2664
+Root mean squared error                  0.3356
+Relative absolute error                 96.1721 %
+Root relative squared error            101.2656 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.867    0.252    0.951      0.867    0.907      0.526    0.815     0.940     others
+                 0.782    0.040    0.525      0.782    0.628      0.616    0.920     0.438     angry
+                 0.688    0.038    0.464      0.688    0.554      0.540    0.905     0.356     sad
+                 0.574    0.051    0.379      0.574    0.457      0.431    0.849     0.262     happy
+Weighted Avg.    0.839    0.221    0.876      0.839    0.853      0.527    0.827     0.852     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 4054  185  182  256 |    a = others
+   47  233   10    8 |    b = angry
+   57   18  172    3 |    c = sad
+  106    8    7  163 |    d = happy
+ ---------------------------------------------------
