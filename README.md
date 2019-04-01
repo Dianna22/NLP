@@ -11,7 +11,7 @@ Root directory: Project/Emocontext
 1. Install virtualenv: `pip install virtualenv`  
 2. cd Project
 3. Activate the virtualenv: `Emocontext\Scripts\activate.bat` (Windows) OR `source Emocontext/bin/activate` (Linux)
-4. Install requirements: `pip install -r requirements.txt`
+4. Install requirements: `pip install -r Project\Emocontext\requirements.txt`
 5. Run jupyter: `jupyter notebook`  
 (To deactivate the virtual environment use: `deacivate`)
 * Jupyter notebook cheatsheet:  
