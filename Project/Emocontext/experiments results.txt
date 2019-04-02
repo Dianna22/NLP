@@ -1,0 +1,652 @@
+Complete Results :
+
+-------------------------------------
+SVM No lowercase - no term frequency -  no stemming -word tokenizer – no cleaning train
+=== Summary ===
+
+Correctly Classified Instances       26403               87.5431 %
+Incorrectly Classified Instances      3757               12.4569 %
+Kappa statistic                          0.812 
+Mean absolute error                      0.2618
+Root mean squared error                  0.3293
+Relative absolute error                 78.3287 %
+Root relative squared error             80.5466 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.908    0.124    0.878      0.908    0.893      0.785    0.900     0.851     others
+                 0.858    0.021    0.900      0.858    0.878      0.852    0.965     0.836     angry
+                 0.872    0.028    0.875      0.872    0.873      0.845    0.965     0.823     sad
+                 0.786    0.026    0.833      0.786    0.809      0.779    0.953     0.734     happy
+Weighted Avg.    0.875    0.074    0.875      0.875    0.875      0.807    0.931     0.827     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 13580   350   456   562 |     a = others
+   583  4724   156    43 |     b = angry
+   495   143  4762    63 |     c = sad
+   805    33    68  3337 |     d = happy
+
+-------------------------------------------------------------
+Random tree No lowercase - no term frequency -  no stemming -word tokenizer – no cleaning train
+
+=== Summary ===
+
+Correctly Classified Instances       30063               99.6784 %
+Incorrectly Classified Instances        97                0.3216 %
+Kappa statistic                          0.9952
+Mean absolute error                      0.0016
+Root mean squared error                  0.0285
+Relative absolute error                  0.4845 %
+Root relative squared error              6.9603 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.006    0.994      1.000    0.997      0.994    1.000     1.000     others
+                 0.997    0.000    0.998      0.997    0.997      0.997    1.000     1.000     angry
+                 0.993    0.000    1.000      0.993    0.996      0.996    1.000     1.000     sad
+                 0.991    0.000    1.000      0.991    0.996      0.995    1.000     1.000     happy
+Weighted Avg.    0.997    0.003    0.997      0.997    0.997      0.995    1.000     1.000     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 14947     0     1     0 |     a = others
+    19  5487     0     0 |     b = angry
+    29    10  5424     0 |     c = sad
+    38     0     0  4205 |     d = happy
+-------------------------------------------------------------
+Naive Bayes No lowercase - no term frequency -  no stemming -word tokenizer – no cleaning train
+
+=== Summary ===
+
+Correctly Classified Instances       20153               66.8203 %
+Incorrectly Classified Instances     10007               33.1797 %
+Kappa statistic                          0.5128
+Mean absolute error                      0.1965
+Root mean squared error                  0.3472
+Relative absolute error                 58.8034 %
+Root relative squared error             84.9427 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.694    0.219    0.757      0.694    0.724      0.477    0.815     0.804     others
+                 0.668    0.111    0.574      0.668    0.617      0.526    0.873     0.655     angry
+                 0.665    0.094    0.610      0.665    0.636      0.553    0.881     0.683     sad
+                 0.581    0.062    0.604      0.581    0.592      0.527    0.880     0.632     happy
+Weighted Avg.    0.668    0.155    0.675      0.668    0.670      0.507    0.846     0.731     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 10378  1873  1508  1189 |     a = others
+  1113  3677   500   216 |     b = angry
+   980   637  3632   214 |     c = sad
+  1244   223   310  2466 |     d = happy
+------------------------------------------------------------------
+Random tree No lowercase - no term frequency -  no stemming -word tokenizer – no cleaning test
+=== Summary ===
+
+Correctly Classified Instances        3076               55.8359 %
+Incorrectly Classified Instances      2433               44.1641 %
+Kappa statistic                          0.106 
+Mean absolute error                      0.2241
+Root mean squared error                  0.4637
+Relative absolute error                 80.9281 %
+Root relative squared error            139.9165 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.594    0.438    0.884      0.594    0.710      0.113    0.593     0.876     others
+                 0.339    0.172    0.101      0.339    0.156      0.098    0.599     0.089     angry
+                 0.352    0.101    0.142      0.352    0.203      0.165    0.664     0.106     sad
+                 0.387    0.123    0.146      0.387    0.212      0.170    0.626     0.124     happy
+Weighted Avg.    0.558    0.392    0.770      0.558    0.632      0.118    0.598     0.760     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 2777  828  478  594 |    a = others
+  142  101   26   29 |    b = angry
+   99   43   88   20 |    c = sad
+  123   24   27  110 |    d = happy
+-------------------------------------------------------------------------
+Naive Bayes No lowercase - no term frequency -  no stemming -word tokenizer – no cleaning test
+=== Summary ===
+
+Correctly Classified Instances        3314               60.1561 %
+Incorrectly Classified Instances      2195               39.8439 %
+Kappa statistic                          0.1697
+Mean absolute error                      0.2421
+Root mean squared error                  0.3832
+Relative absolute error                 87.4025 %
+Root relative squared error            115.6256 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.628    0.364    0.907      0.628    0.742      0.192    0.694     0.918     others
+                 0.299    0.099    0.147      0.299    0.197      0.144    0.681     0.120     angry
+                 0.576    0.116    0.191      0.576    0.287      0.279    0.819     0.316     sad
+                 0.504    0.147    0.157      0.504    0.240      0.212    0.763     0.184     happy
+Weighted Avg.    0.602    0.327    0.794      0.602    0.666      0.194    0.703     0.810     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 2938  481  542  716 |    a = others
+  129   89   46   34 |    b = angry
+   65   24  144   17 |    c = sad
+  109   12   20  143 |    d = happy
+-------------------------------------------------------------------
+SVM No lowercase - no term frequency -  no stemming -word tokenizer – no cleaning test
+
+=== Summary ===
+
+Correctly Classified Instances        4380               79.5063 %
+Incorrectly Classified Instances      1129               20.4937 %
+Kappa statistic                          0.3551
+Mean absolute error                      0.2737
+Root mean squared error                  0.3458
+Relative absolute error                 98.8211 %
+Root relative squared error            104.3235 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.854    0.438    0.916      0.854    0.884      0.367    0.722     0.911     others
+                 0.426    0.052    0.318      0.426    0.364      0.326    0.763     0.186     angry
+                 0.648    0.053    0.368      0.648    0.470      0.457    0.851     0.271     sad
+                 0.338    0.041    0.310      0.338    0.323      0.285    0.748     0.163     happy
+Weighted Avg.    0.795    0.379    0.828      0.795    0.808      0.365    0.732     0.805     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 3995  247  235  200 |    a = others
+  131  127   30   10 |    b = angry
+   69   15  162    4 |    c = sad
+  164   11   13   96 |    d = happy
+--------------------------------------------------
+Random tree lowercase - term frequency -  no stemming -word tokenizer – no cleaning test
+
+=== Summary ===
+
+Correctly Classified Instances        3524               63.9681 %
+Incorrectly Classified Instances      1985               36.0319 %
+Kappa statistic                          0.1881
+Mean absolute error                      0.1865
+Root mean squared error                  0.416 
+Relative absolute error                 67.3387 %
+Root relative squared error            125.5047 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.677    0.387    0.908      0.677    0.776      0.216    0.664     0.899     others
+                 0.430    0.117    0.173      0.430    0.247      0.208    0.672     0.179     angry
+                 0.436    0.097    0.176      0.436    0.251      0.224    0.673     0.150     sad
+                 0.423    0.104    0.181      0.423    0.253      0.216    0.670     0.133     happy
+Weighted Avg.    0.640    0.345    0.797      0.640    0.696      0.216    0.665     0.786     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 3167  561  456  493 |    a = others
+  119  128   29   22 |    b = angry
+   84   28  109   29 |    c = sad
+  119   21   24  120 |    d = happy
+-------------------------------------------
+Random tree lowercase - term frequency -  no stemming -word tokenizer – no cleaning train
+
+=== Summary ===
+
+Correctly Classified Instances       30064               99.6817 %
+Incorrectly Classified Instances        96                0.3183 %
+Kappa statistic                          0.9952
+Mean absolute error                      0.0016
+Root mean squared error                  0.0283
+Relative absolute error                  0.4795 %
+Root relative squared error              6.9246 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.006    0.994      1.000    0.997      0.994    1.000     1.000     others
+                 0.996    0.000    0.998      0.996    0.997      0.997    1.000     1.000     angry
+                 0.993    0.000    1.000      0.993    0.996      0.996    1.000     1.000     sad
+                 0.991    0.000    1.000      0.991    0.996      0.995    1.000     1.000     happy
+Weighted Avg.    0.997    0.003    0.997      0.997    0.997      0.995    1.000     1.000     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 14947     0     1     0 |     a = others
+    20  5486     0     0 |     b = angry
+    28    10  5425     0 |     c = sad
+    37     0     0  4206 |     d = happy
+-------------------------------------------------
+Naive bayes lowercase - term frequency -  no stemming -word tokenizer – no cleaning train
+=== Summary ===
+
+Correctly Classified Instances       20777               68.8893 %
+Incorrectly Classified Instances      9383               31.1107 %
+Kappa statistic                          0.5417
+Mean absolute error                      0.1844
+Root mean squared error                  0.3379
+Relative absolute error                 55.1815 %
+Root relative squared error             82.649  %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.719    0.213    0.769      0.719    0.743      0.507    0.831     0.824     others
+                 0.692    0.103    0.600      0.692    0.643      0.558    0.886     0.684     angry
+                 0.645    0.073    0.662      0.645    0.653      0.578    0.891     0.702     sad
+                 0.636    0.070    0.600      0.636    0.617      0.553    0.893     0.645     happy
+Weighted Avg.    0.689    0.147    0.695      0.689    0.691      0.536    0.861     0.751     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 10742  1730  1150  1326 |     a = others
+  1051  3811   421   223 |     b = angry
+  1082   602  3525   254 |     c = sad
+  1100   213   231  2699 |     d = happy
+-----------------------------
+Naive bayes lowercase - term frequency -  no stemming -word tokenizer – no cleaning test
+
+=== Summary ===
+
+Correctly Classified Instances        3873               70.3031 %
+Incorrectly Classified Instances      1636               29.6969 %
+Kappa statistic                          0.3205
+Mean absolute error                      0.1852
+Root mean squared error                  0.334 
+Relative absolute error                 66.8547 %
+Root relative squared error            100.7772 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.713    0.240    0.943      0.713    0.812      0.353    0.809     0.953     others
+                 0.658    0.114    0.248      0.658    0.361      0.351    0.855     0.339     angry
+                 0.684    0.076    0.300      0.684    0.417      0.416    0.878     0.472     sad
+                 0.602    0.085    0.278      0.602    0.380      0.363    0.862     0.338     happy
+Weighted Avg.    0.703    0.218    0.842      0.703    0.748      0.356    0.817     0.866     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 3335  551  365  426 |    a = others
+   65  196   24   13 |    b = angry
+   43   31  171    5 |    c = sad
+   92   11   10  171 |    d = happy
+-------------------------------
+SVM lowercase - term frequency -  no stemming -word tokenizer – no cleaning test
+
+=== Summary ===
+
+Correctly Classified Instances        4622               83.8991 %
+Incorrectly Classified Instances       887               16.1009 %
+Kappa statistic                          0.5142
+Mean absolute error                      0.2664
+Root mean squared error                  0.3356
+Relative absolute error                 96.1721 %
+Root relative squared error            101.2656 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.867    0.252    0.951      0.867    0.907      0.526    0.815     0.940     others
+                 0.782    0.040    0.525      0.782    0.628      0.616    0.920     0.438     angry
+                 0.688    0.038    0.464      0.688    0.554      0.540    0.905     0.356     sad
+                 0.574    0.051    0.379      0.574    0.457      0.431    0.849     0.262     happy
+Weighted Avg.    0.839    0.221    0.876      0.839    0.853      0.527    0.827     0.852     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 4054  185  182  256 |    a = others
+   47  233   10    8 |    b = angry
+   57   18  172    3 |    c = sad
+  106    8    7  163 |    d = happy
+ ---------------------------------------------------
+SVM lowercase - term frequency -  no stemming -word tokenizer – no cleaning train
+
+=== Summary ===
+
+Correctly Classified Instances       26405               87.5497 %
+Incorrectly Classified Instances      3755               12.4503 %
+Kappa statistic                          0.8124
+Mean absolute error                      0.2617
+Root mean squared error                  0.3291
+Relative absolute error                 78.2924 %
+Root relative squared error             80.5099 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.907    0.120    0.881      0.907    0.894      0.787    0.902     0.854     others
+                 0.856    0.023    0.894      0.856    0.875      0.848    0.964     0.831     angry
+                 0.871    0.028    0.873      0.871    0.872      0.844    0.967     0.823     sad
+                 0.794    0.026    0.833      0.794    0.813      0.784    0.955     0.739     happy
+Weighted Avg.    0.875    0.072    0.875      0.875    0.875      0.808    0.932     0.828     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 13561   365   445   577 |     a = others
+   568  4715   178    45 |     b = angry
+   495   155  4759    54 |     c = sad
+   767    38    68  3370 |     d = happy
+--------------------
+Naive Bayes lowercase - term frequency -  no stemming - Ngram (1-3) tokenizer – no cleaning train
+
+=== Summary ===
+
+Correctly Classified Instances       20547               68.1267 %
+Incorrectly Classified Instances      9613               31.8733 %
+Kappa statistic                          0.5379
+Mean absolute error                      0.1767
+Root mean squared error                  0.3528
+Relative absolute error                 52.8675 %
+Root relative squared error             86.2924 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.682    0.182    0.787      0.682    0.731      0.506    0.827     0.826     others
+                 0.716    0.129    0.553      0.716    0.624      0.533    0.880     0.639     angry
+                 0.639    0.074    0.658      0.639    0.648      0.572    0.881     0.700     sad
+                 0.686    0.071    0.613      0.686    0.647      0.587    0.895     0.671     happy
+Weighted Avg.    0.681    0.137    0.696      0.681    0.685      0.534    0.856     0.747     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 10202  2179  1197  1370 |     a = others
+   915  3944   414   233 |     b = angry
+   996   741  3492   234 |     c = sad
+   854   272   208  2909 |     d = happy
+---------------------------------
+Random tree lowercase - term frequency -  no stemming - Ngram (1-3) tokenizer – no cleaning train
+=== Summary ===
+
+Correctly Classified Instances       30064               99.6817 %
+Incorrectly Classified Instances        96                0.3183 %
+Kappa statistic                          0.9952
+Mean absolute error                      0.0016
+Root mean squared error                  0.0283
+Relative absolute error                  0.4795 %
+Root relative squared error              6.9246 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.006    0.994      1.000    0.997      0.994    1.000     1.000     others
+                 0.997    0.000    0.998      0.997    0.997      0.997    1.000     1.000     angry
+                 0.993    0.000    1.000      0.993    0.996      0.996    1.000     1.000     sad
+                 0.991    0.000    1.000      0.991    0.996      0.995    1.000     1.000     happy
+Weighted Avg.    0.997    0.003    0.997      0.997    0.997      0.995    1.000     1.000     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 14947     0     1     0 |     a = others
+    19  5487     0     0 |     b = angry
+    28    10  5425     0 |     c = sad
+    38     0     0  4205 |     d = happy
+-------------------------------
+Random tree lowercase - term frequency -  no stemming - Ngram (1-3) tokenizer – no cleaning test
+=== Summary ===
+
+Correctly Classified Instances        3640               66.0737 %
+Incorrectly Classified Instances      1869               33.9263 %
+Kappa statistic                          0.2077
+Mean absolute error                      0.1759
+Root mean squared error                  0.4034
+Relative absolute error                 63.5157 %
+Root relative squared error            121.7185 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.698    0.400    0.907      0.698    0.789      0.224    0.673     0.897     others
+                 0.453    0.099    0.207      0.453    0.284      0.248    0.686     0.184     angry
+                 0.472    0.096    0.189      0.472    0.270      0.247    0.707     0.172     sad
+                 0.433    0.098    0.193      0.433    0.267      0.231    0.720     0.206     happy
+Weighted Avg.    0.661    0.355    0.800      0.661    0.711      0.227    0.678     0.790     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 3264  470  459  484 |    a = others
+  118  135   28   17 |    b = angry
+   96   23  118   13 |    c = sad
+  119   24   18  123 |    d = happy
+--------------------------------------
+Naive Bayes lowercase - term frequency -  no stemming - Ngram (1-3) tokenizer – no cleaning test
+=== Summary ===
+
+Correctly Classified Instances        3698               67.1265 %
+Incorrectly Classified Instances      1811               32.8735 %
+Kappa statistic                          0.2925
+Mean absolute error                      0.1848
+Root mean squared error                  0.3595
+Relative absolute error                 66.7309 %
+Root relative squared error            108.462  %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.675    0.227    0.943      0.675    0.787      0.328    0.801     0.952     others
+                 0.671    0.142    0.213      0.671    0.323      0.318    0.848     0.308     angry
+                 0.676    0.078    0.293      0.676    0.409      0.407    0.858     0.453     sad
+                 0.613    0.091    0.269      0.613    0.373      0.358    0.867     0.339     happy
+Weighted Avg.    0.671    0.209    0.840      0.671    0.723      0.333    0.809     0.863     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 3155  694  374  454 |    a = others
+   62  200   22   14 |    b = angry
+   40   35  169    6 |    c = sad
+   87   11   12  174 |    d = happy
+--------------------------------
+SVM lowercase - term frequency -  no stemming - Ngram (1-3) tokenizer – no cleaning train
+=== Summary ===
+
+Correctly Classified Instances       27169               90.0829 %
+Incorrectly Classified Instances      2991                9.9171 %
+Kappa statistic                          0.8509
+Mean absolute error                      0.2591
+Root mean squared error                  0.3248
+Relative absolute error                 77.5103 %
+Root relative squared error             79.4612 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.921    0.098    0.902      0.921    0.911      0.822    0.918     0.876     others
+                 0.878    0.017    0.919      0.878    0.898      0.876    0.972     0.863     angry
+                 0.917    0.021    0.906      0.917    0.912      0.892    0.976     0.870     sad
+                 0.839    0.021    0.867      0.839    0.853      0.829    0.970     0.795     happy
+Weighted Avg.    0.901    0.059    0.901      0.901    0.901      0.846    0.946     0.861     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 13762   315   363   508 |     a = others
+   527  4836   124    19 |     b = angry
+   335    97  5010    21 |     c = sad
+   636    14    32  3561 |     d = happy
+----------------------------------------
+SVM lowercase - term frequency -  no stemming - Ngram (1-3) tokenizer – no cleaning test
+
+=== Summary ===
+
+Correctly Classified Instances        4673               84.8248 %
+Incorrectly Classified Instances       836               15.1752 %
+Kappa statistic                          0.5367
+Mean absolute error                      0.2654
+Root mean squared error                  0.3338
+Relative absolute error                 95.8335 %
+Root relative squared error            100.7145 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.874    0.243    0.953      0.874    0.912      0.545    0.829     0.945     others
+                 0.758    0.041    0.514      0.758    0.612      0.599    0.912     0.419     angry
+                 0.752    0.034    0.511      0.752    0.608      0.598    0.911     0.409     sad
+                 0.599    0.046    0.415      0.599    0.490      0.466    0.862     0.293     happy
+Weighted Avg.    0.848    0.212    0.881      0.848    0.860      0.546    0.839     0.858     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 4089  193  164  231 |    a = others
+   56  226   11    5 |    b = angry
+   46   12  188    4 |    c = sad
+  100    9    5  170 |    d = happy
+------------------------------------
+Random tree lowercase - term frequency -  stemming - Tweet tokenizer – train
+=== Summary ===
+
+Correctly Classified Instances       30069               99.6983 %
+Incorrectly Classified Instances        91                0.3017 %
+Kappa statistic                          0.9955
+Mean absolute error                      0.0015
+Root mean squared error                  0.0276
+Relative absolute error                  0.4547 %
+Root relative squared error              6.7431 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.005    0.995      1.000    0.997      0.995    1.000     1.000     others
+                 0.997    0.000    0.999      0.997    0.998      0.997    1.000     1.000     angry
+                 0.993    0.000    1.000      0.993    0.997      0.996    1.000     1.000     sad
+                 0.992    0.000    1.000      0.992    0.996      0.995    1.000     1.000     happy
+Weighted Avg.    0.997    0.003    0.997      0.997    0.997      0.995    1.000     1.000     
+
+=== Confusion Matrix ===
+
+     a     b     c     d   <-- classified as
+ 14947     0     1     0 |     a = others
+    18  5488     0     0 |     b = angry
+    28     8  5427     0 |     c = sad
+    36     0     0  4207 |     d = happy
+-----------------------------
+Naive Bayes lowercase - term frequency -  stemming - Tweet tokenizer – train
+=== Summary ===
+
+Correctly Classified Instances       19641               65.1227 %
+Incorrectly Classified Instances     10519               34.8773 %
+Kappa statistic                          0.5109
+Mean absolute error                      0.1752
+Root mean squared error                  0.4068
+Relative absolute error                 52.431  %
+Root relative squared error             99.5225 %
+Total Number of Instances            30160     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.590    0.131    0.816      0.590    0.685      0.479    0.820     0.788     others
+                 0.748    0.131    0.561      0.748    0.641      0.555    0.858     0.590     angry
+                 0.715    0.107    0.597      0.715    0.651      0.568    0.857     0.588     sad
+                 0.659    0.103    0.513      0.659    0.577      0.503    0.834     0.489     happy
+Weighted Avg.    0.651    0.123    0.687      0.651    0.655      0.512    0.835     0.674     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 8818 2226 1794 2110 |    a = others
+  677 4117  458  254 |    b = angry
+  620  640 3908  295 |    c = sad
+  695  361  389 2798 |    d = happy
+--------------------------------------
+Random tree lowercase - term frequency -  stemming - Tweet tokenizer – test
+=== Summary ===
+
+Correctly Classified Instances        3492               63.3872 %
+Incorrectly Classified Instances      2017               36.6128 %
+Kappa statistic                          0.1886
+Mean absolute error                      0.1879
+Root mean squared error                  0.4209
+Relative absolute error                 67.8419 %
+Root relative squared error            127.0081 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.666    0.387    0.906      0.666    0.768      0.206    0.653     0.896     others
+                 0.520    0.119    0.199      0.520    0.288      0.260    0.709     0.162     angry
+                 0.440    0.112    0.157      0.440    0.232      0.205    0.716     0.127     sad
+                 0.391    0.092    0.187      0.391    0.253      0.213    0.675     0.139     happy
+Weighted Avg.    0.634    0.345    0.797      0.634    0.691      0.210    0.660     0.782     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 3116  569  544  448 |    a = others
+   96  155   26   21 |    b = angry
+   98   28  110   14 |    c = sad
+  128   25   20  111 |    d = happy
+------------------------------------------------
+Naive Bayes lowercase - term frequency -  stemming - Tweet tokenizer – test
+=== Summary ===
+
+Correctly Classified Instances        3255               59.0851 %
+Incorrectly Classified Instances      2254               40.9149 %
+Kappa statistic                          0.2439
+Mean absolute error                      0.2071
+Root mean squared error                  0.4418
+Relative absolute error                 74.7672 %
+Root relative squared error            133.3009 %
+Total Number of Instances             5509     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.576    0.148    0.956      0.576    0.719      0.307    0.795     0.946     others
+                 0.728    0.159    0.207      0.728    0.323      0.328    0.829     0.248     angry
+                 0.696    0.118    0.219      0.696    0.333      0.342    0.830     0.222     sad
+                 0.599    0.130    0.200      0.599    0.300      0.287    0.774     0.185     happy
+Weighted Avg.    0.591    0.146    0.843      0.591    0.658      0.308    0.797     0.836     
+
+=== Confusion Matrix ===
+
+    a    b    c    d   <-- classified as
+ 2694  760  567  656 |    a = others
+   35  217   31   15 |    b = angry
+   28   40  174    8 |    c = sad
+   60   30   24  170 |    d = happy
+-----------------------------------
