@@ -7,7 +7,7 @@
 ### Documentation
 #### Project structure
 Root directory: Project/Emocontext
-#### Setting up the environment ([tutorial](https://medium.com/@eleroy/jupyter-notebook-in-a-virtual-environment-virtualenv-8f3c3448247))
+#### Setting up the environment ([tutorial](https://medium.com/@eleroy/jupyter-notebook-in-a-virtual-environment-virtualenv-8f3c3448247)) - for running the notebooks locally
 1. Install virtualenv: `python -m pip install virtualenv`  
 2. cd Project
 3. Activate the virtualenv: `Project\Emocontext\Scripts\activate.bat` (Windows) OR `source Emocontext/bin/activate` (Linux)
@@ -18,6 +18,7 @@ Root directory: Project/Emocontext
 (To deactivate the virtual environment use: `deacivate`)
 * Jupyter notebook cheatsheet:  
     * jupyter notebook --generate-config
+#### Kaggle notebooks can be uploaded on kaggle and run on cloud
 
 
 ## [Assignment 2](http://www.site.uottawa.ca/~diana/csi5386/A2_2019/A2_2019.htm)
