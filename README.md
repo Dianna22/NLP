@@ -18,7 +18,7 @@ Root directory: Project/Emocontext
 (To deactivate the virtual environment use: `deacivate`)
 * Jupyter notebook cheatsheet:  
     * jupyter notebook --generate-config
-#### Kaggle notebooks can be uploaded on kaggle and run on cloud
+#### Kaggle notebooks can be uploaded on kaggle and run in cloud
 
 
 ## [Assignment 2](http://www.site.uottawa.ca/~diana/csi5386/A2_2019/A2_2019.htm)
